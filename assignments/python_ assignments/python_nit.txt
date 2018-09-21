@@ -1,0 +1,146 @@
+surname		firstname	employeeid
+veera		nitesh		1023
+goud		sandeep		1024
+gangisetty	harshita	1025
+ganduluri  	uday		1026
+komineni 	ravi		1028		
+#!/usr/bin/python
+
+fo = open("employee.txt","r")
+data = fo.readlines()
+val = raw_input("please enter a value: ")
+for line in data:
+	if val in line:
+		print(''.join(line))
+		exit()
+else:
+	print "not valid record"
+fo.close()
+#!/usr/bin/python
+from cmd_line_args_int import sumi
+from cmd_line_args_str import concat
+
+import socket
+client_socket = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
+
+if 1:
+	data="HELLO"
+	client_socket.sendto(data, ("localhost",6666))
+	print "Sending request"
+	recv_data, addr = client_socket.recvfrom(256)
+	print "time :",recv_data
+	
+client_socket.close()
+
+#!/usr/bin/python
+def sumi(v1,v2):
+	res=int(v1)+int(v2)
+	print "sum is :",res
+
+#!/usr/bin/python
+def concat(str1,str2):
+	res=str(str1)+str(str2)
+	print "string concatenation is :",res
+
+
+#!/usr/bin/python
+"""
+import sys
+print 'Number of arguments:', len(sys.argv), 'arguments.'
+print 'Argument List:', str(sys.argv)
+
+
+
+#/!usr/bin/python
+
+import sys
+print "command line argument are: ",
+total_nums = len(sys.argv)
+if total_nums > 1:
+	for index in range(1,total_nums):
+		num = (sys.argv[index])
+		if num.isdigit():
+			print num ,"it is number"
+		
+		elif num.isalpha():
+			print num  ,"it is string"
+
+else:
+	print ("No argument passed")
+ 
+"""
+import sys
+from sum_num import sumNum
+from stringadd import addString
+
+if len(sys.argv) == 1:
+        print("Pass cmd arguments (either num or string)")
+else:
+        count = 0
+        for val in sys.argv[1:]:
+                if val.isdigit():
+                        count += 1
+                        pass
+                else:
+                        break
+        else:
+                sumNum(sys.argv[1:])
+
+        if count == 0:
+                if all(isinstance(e, str) for e in sys.argv[1:]):
+                        for val in sys.argv[1:]:
+                                if val.isdigit():
+                                        print("Pass cmd arguments (either num or string)")
+                                        sys.exit()
+                        addString(sys.argv[1:])
+                else:
+                        print("Pass cmd arguments (either num or string)")
+
+#!/usr/bin/python
+import sys
+import cmd_line_args_int
+import cmd_line_args_str
+v1=sys.argv[1]
+v2=sys.argv[2]
+str1=sys.argv[3]
+str2=sys.argv[4]
+integer=cmd_line_args_int.sumi(v1,v2)
+constr=cmd_line_args_str.concat(str1,str2)
+
+#!/usr/bin/python
+import sys
+import package
+v1=sys.argv[1]
+v2=sys.argv[2]
+str1=sys.argv[3]
+str2=sys.argv[4]
+integer=package.sumi(v1,v2)
+constr=package.concat(str1,str2)
+
+import socket
+import time
+server_socket = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)	
+server_socket.bind(('', 6666))
+
+print "UDPServer Waiting for client on port 6666"
+
+if True:
+	dataFromClient, address = server_socket.recvfrom(256)
+	print "receving data is    :",dataFromClient
+	epochTime = str(time.time())
+	print "time ;",epochTime
+	server_socket.sendto(epochTime, address)
+
+tuple1 = "one","two"
+tuple2 = 1,2
+tuple3 = tuple1 + tuple2
+print tuple3
+
+item1,item2,item3,item4 = tuple3
+print item1,item2,item3,item4
+
+mylist = ["a","b","c","d","end"]
+print mylist
+
+mylist[0],mylist[1],mylist[2],mylist[3] = tuple3
+print tuple3

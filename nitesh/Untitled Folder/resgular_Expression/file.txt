@@ -1,4 +1,0 @@
-[EMBEDDEDSW PATCH 0/2] This is box subject
-[EMBEDDEDSW][PATCH 0/2] This is box subject
-[EMBEDDEDSW][PATCH][TEST 0/2] This is box subject		
-		

@@ -1,0 +1,102 @@
+#1
+['ab','cd']
+it will not print upper case in a string
+
+#2
+for loop
+while loop
+nested loop
+
+#3
+lis = []
+for i  in range(1500,2700):
+	if (i%7==0) nad (i%5==0):
+		lis.append(i)
+print lis
+
+#4
+
+str = raw_input("Enter a word: ")
+print str[::-1]
+
+#5
+numbers=(1,2,3,4,5,6,7,8,9)
+
+for i in numbers:
+	if i % 2 == 0:
+		print "even numbers are",i
+	else:
+		print "odd numbers are",i
+
+#6
+x=1
+  while x<10:
+       print x,
+       x+=1
+
+for i in range(0,10):
+	print i,
+
+#7
+x=input('Enter a number: ')
+while x!=10:
+      print x,
+      x=input('Enter a number: ')
+key=raw_input("Press key...")
+
+
+In the above code it will ask user number again and again untill user enter 10
+
+
+#8
+x=10
+while x>5:
+     print x,
+     x-=1
+
+
+The output of above program is 10,9,8,7,6
+
+#9
+for i in range(1,50):
+         print i,
+
+x = 1
+while x > 50:
+	print x,
+
+
+
+#10
+for i in range(20,0,-2):
+       print i
+
+
+It will print 20 to 0 with step 2 
+#11
+
+for x in range(1,6):
+       for y in range(1,x+1):
+            print x,' 'y
+
+1 1 
+2 1
+2 2
+
+
+#12
+for i in data:
+	print i
+else:
+	print i is not in data
+
+#13
+It will print 2 to 9 prime numbers or not prime number both.
+
+
+
+
+
+
+
+

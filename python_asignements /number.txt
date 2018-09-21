@@ -1,1 +1,0 @@
-str = 'hello this port number is port:10'

@@ -1,4 +1,0 @@
-a = ['veera']
-b = ['nitesh']
-print  a.extend(b)
-

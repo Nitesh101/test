@@ -1,0 +1,58 @@
+﻿1. What is the output of the following?
+x = ['ab', 'cd']
+for i in x:
+    i.upper()
+print(x)
+2.what are Different types of loops in python?
+
+3. Write a Python program to find those numbers which are divisible by 7 and multiple of 5, between 1500 and 2700 (both included).
+
+4. Write a Python program that accepts a word from the user and reverse it.
+
+5.Write a Python program to count the number of even and odd numbers from a series of numbers. 
+Sample numbers : numbers=(1,2,3,4,5,6,7,8,9)
+
+6. Change the following Python code from  while loop to for loop:
+  x=1
+  while x<10:
+       print x,
+       x+=1
+
+7.When does while loop in the following code exit?
+  x=input('Enter a number: ')
+  while x!=10:
+      print x,
+      x=input('Enter a number: ')
+  key=raw_input("Press key...")
+
+8.What would be the output from the following Python code segment?
+  x=10
+  while x>5:
+     print x,
+     x-=1
+
+9.Change the following Python code from a for loop to a while loop:
+    for i in range(1,50):
+         print i,
+
+10.What would be printed from the following Python code segment?
+   for i in range(20,0,-2):
+       print i
+
+11. What would be printed from the following Python code segment?
+   for x in range(1,6):
+       for y in range(1,x+1):
+            print x,' ',y
+
+12.write the working flow of for-else loop?
+
+
+
+13.find the output of the following code?
+  for n in range(2, 10):
+      for x in range(2, n):
+          if n % x == 0:
+              print( n, 'equals', x, '*', n/x)
+              break
+      else:
+         print(n, 'is a prime number')                    

@@ -1,1 +1,0 @@
-﻿Regex is way overkill for this problem. Also, you don't handle the case where one of the lines is Ender's Game (the End in the regex needs a newline). Further, the usage of \n is not cross-platform, as windows uses \r\n for line endings

@@ -1,3 +1,0 @@
-hydratk
-hydratk-lib-network
-hydratk-ext-yoda

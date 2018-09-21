@@ -1,0 +1,35 @@
+1.what is list and tuple?
+2.when to use list and when to use tuple
+3.what is instance?,where can you use isinstance?
+4.basic data types in python
+5.what are different data structures in python?
+6.how can u add a list(list of elements) to an existing list?
+7.what is set?
+8.what is frozonset?
+9.what different keywords in python,can we use keywords as variables?
+10.print the elements of the list by skipping 2 elements ?
+	ex l=[1,2,3,4,5,6,7,8,9] output = [1,4,7]
+11.Reverse a list with out using built in functions?
+12.what are dict? write dict functions?
+13.find second largest number in the given list without using built in functions?
+14.Transform list to other data structure?
+15.how to create flat list from list of lists? ex l=[[1,2],[6,3],[4,5]] o/p = [1,2,6,3,4,5]
+16.Split the list into evenly sized chunks? 
+ ex : if l=[1,2,3,4,5,6,7,8,9] o/p = [(1,2,3),(4,5,6),(7,8,9)]
+17.what is list comprehension and how does it works?
+18.How can you copy a dict into other dict?
+19.what is the output of the following code ?
+	s1="python"
+	s2=s1
+	s2.replace("p","j")
+	print s1,s2
+20.what is the output of the following code ?
+	l=[1,2,3,4]
+	l1=l
+	l2=l[:]
+	l1.append(5)
+	print l
+	print l1
+	print l2
+   
+

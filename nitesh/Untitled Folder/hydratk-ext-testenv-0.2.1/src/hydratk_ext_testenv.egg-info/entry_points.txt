@@ -1,3 +1,0 @@
-[console_scripts]
-testenv = hydratk.extensions.testenv.bootstrapper:run_app
-

@@ -1,0 +1,92 @@
+2.
+#!/bin/bash
+a=0
+while [ $a -lt 10 ]
+do
+        echo "hello"
+        sleep 1
+        a=$(( a+1 ))
+done
+1.
+ls file*.txt
+cat file1.txt | grep 's'
+
+
+
+8.ENvirnment variables
+$PATH=$PATH:.
+$echo $PATH
+$file.sh
+
+5.signal handling
+#!/bin/bash
+trap test_handler USR1
+trap int_handler INT
+trap usr_handler USR2
+test_handler()
+{
+        echo "find proces id"
+}
+int_handler()
+{
+        echo "cought signal"
+
+}
+usr_handler()
+{
+        echo "got a signal"
+}
+while [ true ]
+do
+        ps -f
+        sleep 5
+done
+
+o/p:  kill -INT ppid
+kill -USR2 ppid
+
+1.Metacharecter
+$lc | wc-l
+$wc -l sample.py
+$cd /proc
+$ls
+$ps -ef | more
+
+3. process fg bg pid
+mkdir test
+$touch file1.sh
+$sleep 100
+ctl + z
+$bg
+$ctrl +z
+$bg
+$ls
+$fg
+$ls
+7.linking
+soft_link
+$ln -s file.py soft_link.py
+hard_link
+$ln file.txt hard_link.txt
+$major is file operations
+
+10.
+$tar -cvf sample.tar file.py file2.txt file3.py
+$tar -xvf sample.tar (untar files)
+$tar -tvf sample.tar 
+6. I/O redirected
+$cat file.txt file2.py ... > textfile
+$ls *.sh *.c > shellfile.txt
+$ls *.sh *.c 2>cfile.txt
+9. changemode
+$chmod u+x file  or directory
+$chmod u-x file  or directory
+$chmod u+w file  or directory
+$chmod u-w file  or directory
+$chmod u+r file  or directory
+$chmod u-r file  or directory
+$chmod ug+r,o-w file  or directory
+$du -sh directory name(it will give size of dirctory or file)
+4. pipes
+$ls | grep *.c
+
