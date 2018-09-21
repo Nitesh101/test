@@ -1,0 +1,12 @@
+$str = "welcome to \ntutorialpoint.com!";
+print "$str\n";
+$str = 'welcome to \ntutorialpont.com!';
+print "$str\n";
+$str = "\uwelcome to tutorialpoint.com!";
+print "$str\n";
+$str = "\Uwelcome to tutorialpoint.com!";
+print "$str\n";
+$str = "welcome to \Ututorialpoint\E.com!";
+print "$str\n";
+$str = "\Qwelcome to tutorialpoint.com!";
+print "$str\n";

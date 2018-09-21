@@ -1,0 +1,25 @@
+Answer is actually given in the file, one would need to read over the source material, those slides were based on.
+
+Basically:
+
+Assume disc blocks are 8K bytes and that disc addresses are 32 bits:
+1)What size can be directly addressed from the information in the i-node?
+2)What size of file requires a double indirect block? 
+3)What is the largest possible file?
+
+On the slide before the answer, the structure of a Unix File is explained, it very clearly states 10 block address.
+
+So obviously 8K * 10 = 80k bytes.
+
+Without the lecture itself I won't be able to quote your own material, you can research that yourself, but i will continue.
+
+I do know that 2^8 is 256 and 2^3 is 8 so 256*8 = 2048KB which is 2MB * 8 = 16384 * 1024 = 16777216 = 16MB
+
+Double Indirect is the address of the indirect ( twice ) so just 2048 * 2048 which is 4GB * 8 * 1024 = 34359738368 = 32GB
+
+Triple indirect is the address of the indirect in double indirect address so
+
+32GB * 2048 ( 2MB ) = 70368744177664 = 64TB
+
+Yes, I looked at the answer and came to some conclusions, without the source material I can't anything else the lecture isn't posted.
+

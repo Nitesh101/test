@@ -1,0 +1,184 @@
+#!/usr/bin/python
+lis = [2,7,3,9,1,6,8]
+print lis
+lis = sorted(lis)
+print lis
+item=input("enter item to be searched: ")
+def binary_search(lis,item):
+        low = 0
+        up = len(lis)
+        while(low<=up):
+                mid=(low+up)/2
+                if (item<lis[mid]):
+                        up=mid-1
+                elif (item>lis[mid]):
+                        low=mid+1
+                else:
+                        return mid
+        return "NONE"
+index = binary_search(lis,item)
+#print index
+if index == "NONE":
+        print "item not found"
+else:
+        print "item found at",index
+
+#!/usr/bin/python
+class Deque:
+        def __init__(self):
+                self.items = []
+        def isEmpty(self):
+                return self.items == []
+        def addfront(self,item):
+                self.items.insert(0,item)
+                print(self.items)
+        def addrear(self,item):
+                self.items.append(item)
+                print(self.items)
+        def removefront(self):
+                return self.items.pop(0)
+                print(self.items)
+        def removerear(self):
+                return self.items.pop()
+                print(self.items)
+        def size(self):
+                return len(self.items)
+        def display(self):
+                return self.items
+                print(self.items)
+dqueue1 = Deque()
+#include<stdio.h>
+long int fact(int n);
+long int fib(int n);
+#include<stdio.h>
+#include"fact"
+int main()
+{
+	int nterms,i;
+	printf("enter a number : ");
+	scanf("%d",&nterms);
+	for(i=0;i<nterms;i++)
+		printf("%d",fib(i));
+	printf("\n");
+	return 0;
+}
+#!/usr/bin/python
+from stack import Stack
+from queue import Queue
+stack = Stack()
+stack.push(40)
+stack.push(30)
+print stack
+
+
+#!/usr/bin/python
+import stack
+import queue
+"""
+import linearsearch
+import binarysearch
+import buble_sort
+"""
+
+stack.stack1.push(20)
+stack.stack1.push(30)
+#stack.stack1.pop()
+#stack.stack1.pop()
+queue.queue1.append(40)
+queue.queue1.append(10)
+"""
+linearsearch.linear_search(obj,item)
+binarysearch.binary_search()
+buble_sort.bublesort()
+"""
+
+#!/usr/bin/python
+class Queue:
+        def __init__(self):
+                self.item = []
+        def append(self,item):
+                self.item.append(item)
+		print self.item
+        def remove(self):
+                self.item.pop(0)
+        def isEmpty(self):
+                return (self.item == [])
+        def topOfstack(self):
+                return len(self.item)
+        def __str(self):
+                return str(self.item)
+queue1 = Queue()
+#/usr/bin/python
+class Stack():
+        def __init__(self):
+                self.item = []
+        def push(self,item):
+                self.item.append(item)
+                print self.item
+        def pop(self):
+                return self.item.pop()	
+		print self.item
+        def isEmpty(self):
+                return (self.item == [])
+        def topOfStack(self):
+                return len(self.item)
+        def __str__(self):
+                return str(self.item)
+stack1=Stack()
+
+#!/usr/bin/python
+import dqueue 
+
+
+dqueue.dqueue1.addrear(10)
+dqueue.dqueue1.addfront(20)
+dqueue.dqueue1.addfront(40)
+print dqueue.dqueue1.removerear()
+print dqueue.dqueue1.removefront()
+#include<stdio.h>
+#include"fact.h"
+int main(void)
+{
+	int num;
+	printf("Enter a number: ");
+	scanf("%d",&num);
+	if(num<0)
+		printf("no factorial for negetive\n");
+	else
+		printf("factorial of %d is %ld\n",num,fact(num));
+	return 0;
+}
+#include<stdio.h>
+#include"fact.h"
+long int fact(int n)
+{
+        int i;
+        long int fact=1;
+        if(n==0)
+                return 1;
+        for(i=n; i>1; i--)
+                fact*=i;
+        return fact;
+}
+int fib(int n)
+{
+        if(n==0 || n==1)
+                return 1;
+        return(fib(n-1) + fib(n-2));
+}
+
+#!/usr/bin/python
+lis = [1,2,3,4,5]
+print lis
+lis2 = input("enter a value you vwant: ")
+for val in range(len(lis)):
+        if lis[val] == lis2:
+                print "found value at index of: ",val
+                break
+else:
+        print "not found"
+
+#!/usr/bin/python
+import queue
+queue.queue1.append(10)
+queue.queue1.append(20)

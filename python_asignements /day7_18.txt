@@ -1,0 +1,95 @@
+﻿
+1. Write a program in Python to accept user input (strings) until user enters "end" and store that in file
+(No need of string "end" to store). Read the contents of file through program and print the output.
+
+
+while True:
+	val = raw_input("Enter a string: ")
+	fo = open("file.txt","a")
+	fo.write(val)
+	fo.write("\n")
+	if val == "end":
+		exit()
+	
+
+3. Write a program in Python to perform the following:
+ Write a function count_words_in_file() to return number of whitespace separated words in a
+given file
+ Write a function sum_numbers_in_file() to return sum of numbers (integers separated by white
+space) in a given file
+
+
+#!/usr/bin/python
+
+num_lines = 0
+num_words = 0
+num_chars = 0
+
+fa = open("file2.txt","r")
+for line in fa:
+	words = line.split()
+
+	num_lines += 1
+    	num_words += len(words)
+    	num_chars += len(line)
+print num_chars
+print num_words
+print num_lines
+
+
+4. Write a program in Python to implement command line arguments with options. This has to be
+something like this.
+Generate a file called input.txt (or whatever required name), this has to have one number each line.
+Read the contents of file, sum the numbers and display the sum in the file as provided by user (say
+output.txt). User has to execute the program as following
+$ ./find_sum_from_files –i input.txt –o output.txt
+If user not enters other than i and o options with values or with –h, display help message such as for
+all the below cases
+$ ./find_sum_from_files –i
+$ ./find_sum_from_files –i input.txt
+$ ./find_sum_from_files –i input.txt -o
+$ ./find_sum_from_files –o output.txt
+$ ./find_sum_from_files –h
+$ ./find_sum_from_files –x
+Handle errors or invalid inputs using exceptions.
+
+
+#!/usr/bin/python
+import sys,getopt
+
+def main(argv):
+	inputfile = ''
+	outputfile = ''
+	try: 
+		opts,args = getopt.getopt(argv,"hi:o:",["ifile=","ofile="])
+	except getopt.GetoptError:
+		print 'getopts_test.py -i <inputfile> -o <ouputfile>'
+		sys.exit(2)
+	for opt,arg in opts:
+		if opt == '-h':
+			print 'usage: getopts_test.py -i<inputfile> -o<outputfile>'
+			sys.exit()
+		elif opt in ("-i","__ifile"):
+			inputfile= arg
+		elif opt in ("-o","__ofile"):
+			outputfile = arg
+	print 'input file  is ',inputfile
+	print 'output file is',outputfile
+	return
+if __name__ == '__main__':
+	main(sys.argv[1:])
+ 
+
+
+
+
+
+
+
+5. Write a program in Python to read a sample csv file and print the values
+
+import csv
+fa = open("file.csv","rb")
+readcsv = csv.reader(fa)
+for row in readcsv:
+	print row

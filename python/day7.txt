@@ -1,0 +1,176 @@
+#!usr/bin/python
+class Node:
+ 
+    def __init__(self, data):
+        self.data = data
+        self.next = None
+ 
+class LinkedList:
+ 
+   
+    def __init__(self):
+        self.head = None
+    def isEmpty(self):
+	return self.head == 0
+	print self.head
+ 
+    def sortedInsert(self, new_node):
+         
+       
+        if self.head is None:
+            new_node.next = self.head
+            self.head = new_node
+ 
+       
+        elif self.head.data >= new_node.data:
+            new_node.next = self.head
+            self.head = new_node
+ 
+        else :
+
+            current = self.head
+            while(current.next is not None and
+                 current.next.data < new_node.data):
+                current = current.next
+             
+            new_node.next = current.next
+            current.next = new_node
+ 
+    
+    def push(self, new_data):
+        new_node = Node(new_data)
+        new_node.next = self.head
+        self.head = new_node
+ 
+    
+    def printList(self):
+        temp = self.head
+        while(temp):
+            print temp.data,
+            temp = temp.next
+	def display(self):
+		return self.data == 0 
+llist = LinkedList()
+new_node = Node(1)
+llist.sortedInsert(new_node)
+new_node = Node(10)
+llist.sortedInsert(new_node)
+new_node = Node(7)
+llist.sortedInsert(new_node)
+new_node = Node(3)
+llist.sortedInsert(new_node)
+new_node = Node(1)
+llist.sortedInsert(new_node)
+new_node = Node(9)
+llist.sortedInsert(new_node)
+print "Create Linked List"
+llist.printList()
+llist.display()
+
+
+#!usr/bin/python
+def factorial(n):
+#    print("factorial has been called with n = " + str(n))
+    if n == 1:
+        return 1
+    else:
+        res = n * factorial(n-1)
+#        print("intermediate result for ", n, " * factorial(" ,n-1, "): ",res)
+        return res	
+
+print(factorial(5))
+
+#!usr/bin/python
+class Node:
+    def __init__(self,initdata):
+        self.data = initdata
+        self.next = None
+
+    def getData(self):
+        return self.data
+
+    def getNext(self):
+        return self.next
+
+    def setData(self,newdata):
+        self.data = newdata
+
+    def setNext(self,newnext):
+        self.next = newnext
+
+
+class UnorderedList:
+
+    def __init__(self):
+        self.head = None
+
+    def isEmpty(self):
+        return self.head == None
+
+    def add(self,item):
+        temp = Node(item)
+        temp.setNext(self.head)
+        self.head = temp
+
+    def size(self):
+        current = self.head
+        count = 0
+        while current != None:
+            count = count + 1
+            current = current.getNext()
+
+        return count
+
+    def search(self,item):
+        current = self.head
+        found = False
+        while current != None and not found:
+            if current.getData() == item:
+                found = True
+            else:
+                current = current.getNext()
+
+        return found
+
+    def remove(self,item):
+        current = self.head
+        previous = None
+        found = False
+        while not found:
+            if current.getData() == item:
+                found = True
+            else:
+                previous = current
+                current = current.getNext()
+
+        if previous == None:
+            self.head = current.getNext()
+        else:
+            previous.setNext(current.getNext())
+
+mylist = UnorderedList()
+
+mylist.add(31)
+mylist.add(77)
+mylist.add(17)
+mylist.add(93)
+mylist.add(26)
+mylist.add(54)
+
+print(mylist.size())
+print(mylist.search(93))
+print(mylist.search(100))
+
+mylist.add(100)
+print(mylist.search(100))
+print(mylist.size())
+
+mylist.remove(54)
+print(mylist.size())
+mylist.remove(93)
+print(mylist.size())
+mylist.remove(31)
+print(mylist.size())
+print(mylist.search(93))
+
+

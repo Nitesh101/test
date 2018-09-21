@@ -1,0 +1,8 @@
+readlink    PASS
+popen   PASS
+stat   PASS
+stat_float_times   PASS
+statvfs   PASS
+unlink   PASS
+open    FAIL
+open    FAIL

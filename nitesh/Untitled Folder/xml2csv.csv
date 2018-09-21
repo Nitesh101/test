@@ -1,0 +1,3 @@
+name,Votary
+cmd,"python run.py init 1"
+cmd,"python run.py init 1 discover 1"

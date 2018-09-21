@@ -1,0 +1,1806 @@
+1518675255932	geckodriver	INFO	geckodriver 0.19.1
+1518675255937	geckodriver	INFO	Listening on 127.0.0.1:44024
+1518675257106	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.AQH8jP9fVkZz"
+1518675260989	Marionette	INFO	Listening on port 43564
+1518675261032	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1518675278278	Marionette	INFO	Ceased listening
+1518675320635	geckodriver	INFO	geckodriver 0.19.1
+1518675320640	geckodriver	INFO	Listening on 127.0.0.1:42101
+1518675321813	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.9Wx2mfUmRT1y"
+1518675324758	Marionette	INFO	Listening on port 44991
+1518675325141	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 104: TypeError: this._recipeManager is null
+console.warn: nsLoginManager: searchLogins: `formSubmitURL` or `httpRealm` is recommended
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 104: TypeError: this._recipeManager is null
+console.warn: nsLoginManager: searchLogins: `formSubmitURL` or `httpRealm` is recommended
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1518675379013	Marionette	INFO	Ceased listening
+1518675382063	geckodriver	INFO	geckodriver 0.19.1
+1518675382067	geckodriver	INFO	Listening on 127.0.0.1:57826
+1518675383227	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.V3xp3sAGyno5"
+1518675386676	Marionette	INFO	Listening on port 33835
+1518675386747	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1518675509746	Marionette	INFO	Ceased listening
+1518675532768	geckodriver	INFO	geckodriver 0.19.1
+1518675532772	geckodriver	INFO	Listening on 127.0.0.1:46458
+1518675533926	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.qmuGSXXZJnG6"
+1518675537227	Marionette	INFO	Listening on port 33002
+1518675537518	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: can't convert null to object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: can't convert null to object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: can't convert null to object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: can't convert null to object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: can't convert null to object
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1518675640741	Marionette	INFO	Ceased listening
+1518675646554	geckodriver	INFO	geckodriver 0.19.1
+1518675646558	geckodriver	INFO	Listening on 127.0.0.1:54783
+1518675647721	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.rXZ2T6uDjeQB"
+1518675651335	Marionette	INFO	Listening on port 41894
+1518675651442	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1518675669823	Marionette	INFO	Ceased listening
+1518675682404	geckodriver	INFO	geckodriver 0.19.1
+1518675682407	geckodriver	INFO	Listening on 127.0.0.1:60998
+1518675683587	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.suzhGQFeOhUu"
+1518675687290	Marionette	INFO	Listening on port 41312
+1518675687332	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1518675749263	addons.productaddons	WARN	Failed downloading XML, status: 0, reason: error
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1518675749634	Marionette	INFO	Ceased listening
+1518675752038	geckodriver	INFO	geckodriver 0.19.1
+1518675752041	geckodriver	INFO	Listening on 127.0.0.1:41584
+1518675753125	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.CAzfPn3MC2RJ"
+1518675756648	Marionette	INFO	Listening on port 38636
+1518675756743	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: can't convert null to object
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1518676701914	Marionette	INFO	Ceased listening
+1518676704159	geckodriver	INFO	geckodriver 0.19.1
+1518676704163	geckodriver	INFO	Listening on 127.0.0.1:41739
+1518676705283	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.BJ74CRM2SR09"
+1518676708501	Marionette	INFO	Listening on port 43178
+1518676708607	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 104: TypeError: this._recipeManager is null
+console.warn: nsLoginManager: searchLogins: `formSubmitURL` or `httpRealm` is recommended
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1518681882373	geckodriver	INFO	geckodriver 0.19.1
+1518681882379	geckodriver	INFO	Listening on 127.0.0.1:54973
+1518681883523	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.ASYqfrhqRX1z"
+1518681887070	Marionette	INFO	Listening on port 42434
+1518681887570	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1518681904833	Marionette	INFO	Ceased listening
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1518681906725	Marionette	INFO	Ceased listening
+1518682152955	geckodriver	INFO	geckodriver 0.19.1
+1518682152960	geckodriver	INFO	Listening on 127.0.0.1:37071
+1518682154059	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.PGo70WCjbDDF"
+1518682157620	Marionette	INFO	Listening on port 32771
+1518682157679	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1518682805838	geckodriver	INFO	geckodriver 0.19.1
+1518682805842	geckodriver	INFO	Listening on 127.0.0.1:39512
+1518682807017	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.oMTbAJLhV66O"
+1518682810316	Marionette	INFO	Listening on port 43879
+1518682810362	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1518682846607	geckodriver	INFO	geckodriver 0.19.1
+1518682846612	geckodriver	INFO	Listening on 127.0.0.1:41836
+1518682847770	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.0kqQiRkn3wJn"
+1518682850934	Marionette	INFO	Listening on port 35640
+1518682851411	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1518682854790	Marionette	INFO	Ceased listening
+1518682912065	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1518682912499	Marionette	INFO	Ceased listening
+1518682946846	geckodriver	INFO	geckodriver 0.19.1
+1518682946850	geckodriver	INFO	Listening on 127.0.0.1:44384
+1518682948014	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.L30jkX7Zf5se"
+1518682951963	Marionette	INFO	Listening on port 37393
+1518682952037	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+JavaScript warning: https://apis.google.com/_/widget/render/comments?usegapi=1&href=http%3A%2F%2Fwww.marinamele.com%2Fselenium-tutorial-web-scraping-with-selenium-and-python&first_party_property=BLOGGER&legacy_comment_moderation_url=&view_type=FILTERED_POSTMOD&width=654&height=200&origin=http%3A%2F%2Fwww.marinamele.com&search=&hash=&gsrc=3p&jsh=m%3B%2F_%2Fscs%2Fapps-static%2F_%2Fjs%2Fk%3Doz.gapi.en_US.7knau9ynRZo.O%2Fm%3D__features__%2Fam%3DIA%2Frt%3Dj%2Fd%3D1%2Frs%3DAGLTcCNO1OW5Imhr4vxDSCPjWsdKHsIWGw#_methods=onPlusOne%2C_ready%2C_close%2C_open%2C_resizeMe%2C_renderstart%2Concircled%2Cdrefresh%2Cerefresh%2Cscroll%2Copenwindow&id=I0_1518683060350&_gfid=I0_1518683060350&parent=http%3A%2F%2Fwww.marinamele.com&pfname=&rpctoken=47247089, line 323: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://apis.google.com/_/widget/render/comments?usegapi=1&href=http%3A%2F%2Fwww.marinamele.com%2Fselenium-tutorial-web-scraping-with-selenium-and-python&first_party_property=BLOGGER&legacy_comment_moderation_url=&view_type=FILTERED_POSTMOD&width=654&height=200&origin=http%3A%2F%2Fwww.marinamele.com&search=&hash=&gsrc=3p&jsh=m%3B%2F_%2Fscs%2Fapps-static%2F_%2Fjs%2Fk%3Doz.gapi.en_US.7knau9ynRZo.O%2Fm%3D__features__%2Fam%3DIA%2Frt%3Dj%2Fd%3D1%2Frs%3DAGLTcCNO1OW5Imhr4vxDSCPjWsdKHsIWGw#_methods=onPlusOne%2C_ready%2C_close%2C_open%2C_resizeMe%2C_renderstart%2Concircled%2Cdrefresh%2Cerefresh%2Cscroll%2Copenwindow&id=I0_1518683060350&_gfid=I0_1518683060350&parent=http%3A%2F%2Fwww.marinamele.com&pfname=&rpctoken=47247089, line 1493: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1518683224598	Marionette	INFO	Ceased listening
+JavaScript error: https://mbp.yimg.com/sy/os/mit/td/aperollup-min-02adc10c_desktop_advance.js, line 4: TypeError: e.config.win.location is null
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1518683315060	Marionette	INFO	Ceased listening
+1518683327047	geckodriver	INFO	geckodriver 0.19.1
+1518683327050	geckodriver	INFO	Listening on 127.0.0.1:33439
+1518683328186	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.LwAJPo8USt6N"
+1518683331492	Marionette	INFO	Listening on port 37437
+1518683331533	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/main.js, line 1491: TypeError: this.transport is null
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: can't convert null to object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: can't convert null to object
+Handler function threw an exception: TypeError: this.transport is null
+Stack: send@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/main.js:1491:5
+NEA_addSecurityInfo@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/webconsole.js:2266:5
+NetworkResponseListener.prototype._getSecurityInfo<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:495:5
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+onStartRequest@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:436:5
+Line: 1491, column: 5
+console.error: 
+  Handler function threw an exception: TypeError: this.transport is null
+Stack: send@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/main.js:1491:5
+NEA_addSecurityInfo@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/webconsole.js:2266:5
+NetworkResponseListener.prototype._getSecurityInfo<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:495:5
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+onStartRequest@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:436:5
+Line: 1491, column: 5
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/main.js, line 1491: TypeError: this.transport is null
+Handler function threw an exception: TypeError: this.transport is null
+Stack: send@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/main.js:1491:5
+NEA_addSecurityInfo@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/webconsole.js:2266:5
+NetworkResponseListener.prototype._getSecurityInfo<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:495:5
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+onStartRequest@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:436:5
+Line: 1491, column: 5
+console.error: 
+  Handler function threw an exception: TypeError: this.transport is null
+Stack: send@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/main.js:1491:5
+NEA_addSecurityInfo@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/webconsole.js:2266:5
+NetworkResponseListener.prototype._getSecurityInfo<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:495:5
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+onStartRequest@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:436:5
+Line: 1491, column: 5
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/main.js, line 1491: TypeError: this.transport is null
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1518683500802	Marionette	INFO	Ceased listening
+1518683503762	geckodriver	INFO	geckodriver 0.19.1
+1518683503764	geckodriver	INFO	Listening on 127.0.0.1:42416
+1518683504955	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.eyv6nzNYPLMP"
+1518683508310	Marionette	INFO	Listening on port 44731
+1518683508380	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1518683534688	Marionette	INFO	Ceased listening
+1518683536339	geckodriver	INFO	geckodriver 0.19.1
+1518683536343	geckodriver	INFO	Listening on 127.0.0.1:37826
+1518683537431	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.aZ0d1QUU2ivT"
+1518683540982	Marionette	INFO	Listening on port 34502
+1518683541104	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1518683605890	geckodriver	INFO	geckodriver 0.19.1
+1518683605895	geckodriver	INFO	Listening on 127.0.0.1:46270
+1518683607087	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.EuMgzNVEPy2f"
+1518683610348	Marionette	INFO	Listening on port 36477
+1518683610649	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1518683637009	Marionette	INFO	Ceased listening
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: can't convert null to object
+Handler function threw an exception: TypeError: this.transport is null
+Stack: send@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/main.js:1491:5
+NEA_addSecurityInfo@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/webconsole.js:2266:5
+NetworkResponseListener.prototype._getSecurityInfo<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:495:5
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+onStartRequest@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:436:5
+Line: 1491, column: 5
+console.error: 
+  Handler function threw an exception: TypeError: this.transport is null
+Stack: send@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/main.js:1491:5
+NEA_addSecurityInfo@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/webconsole.js:2266:5
+NetworkResponseListener.prototype._getSecurityInfo<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:495:5
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+onStartRequest@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:436:5
+Line: 1491, column: 5
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/main.js, line 1491: TypeError: this.transport is null
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: can't convert null to object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: can't convert null to object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: can't convert null to object
+Handler function threw an exception: TypeError: this.transport is null
+Stack: send@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/main.js:1491:5
+NEA_addSecurityInfo@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/webconsole.js:2266:5
+NetworkResponseListener.prototype._getSecurityInfo<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:495:5
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+onStartRequest@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:436:5
+Line: 1491, column: 5
+console.error: 
+  Handler function threw an exception: TypeError: this.transport is null
+Stack: send@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/main.js:1491:5
+NEA_addSecurityInfo@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/webconsole.js:2266:5
+NetworkResponseListener.prototype._getSecurityInfo<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:495:5
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+onStartRequest@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:436:5
+Line: 1491, column: 5
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/main.js, line 1491: TypeError: this.transport is null
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: can't convert null to object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: can't convert null to object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: can't convert null to object
+1518683852216	geckodriver	INFO	geckodriver 0.19.1
+1518683852221	geckodriver	INFO	Listening on 127.0.0.1:36758
+1518683853387	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.vHUFxltndXWp"
+1518683857134	Marionette	INFO	Listening on port 41811
+1518683857467	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1518683935529	geckodriver	INFO	geckodriver 0.19.1
+1518683935532	geckodriver	INFO	Listening on 127.0.0.1:57898
+1518683936685	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.iasYgM8tZauC"
+1518683940320	Marionette	INFO	Listening on port 46373
+1518683940434	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1518683962394	Marionette	INFO	Ceased listening
+Handler function threw an exception: TypeError: this.transport is null
+Stack: send@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/main.js:1491:5
+NEA_addSecurityInfo@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/webconsole.js:2266:5
+NetworkResponseListener.prototype._getSecurityInfo<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:495:5
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+onStartRequest@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:436:5
+Line: 1491, column: 5
+console.error: 
+  Handler function threw an exception: TypeError: this.transport is null
+Stack: send@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/main.js:1491:5
+NEA_addSecurityInfo@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/webconsole.js:2266:5
+NetworkResponseListener.prototype._getSecurityInfo<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:495:5
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+onStartRequest@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:436:5
+Line: 1491, column: 5
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/main.js, line 1491: TypeError: this.transport is null
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1518683964236	Marionette	INFO	Ceased listening
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: can't convert null to object
+Handler function threw an exception: TypeError: this.transport is null
+Stack: send@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/main.js:1491:5
+NEA_addSecurityInfo@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/webconsole.js:2266:5
+NetworkResponseListener.prototype._getSecurityInfo<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:495:5
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+onStartRequest@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:436:5
+Line: 1491, column: 5
+console.error: 
+  Handler function threw an exception: TypeError: this.transport is null
+Stack: send@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/main.js:1491:5
+NEA_addSecurityInfo@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/webconsole.js:2266:5
+NetworkResponseListener.prototype._getSecurityInfo<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:495:5
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+onStartRequest@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:436:5
+Line: 1491, column: 5
+Handler function threw an exception: TypeError: this.transport is null
+Stack: send@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/main.js:1491:5
+NEA_addSecurityInfo@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/webconsole.js:2266:5
+NetworkResponseListener.prototype._getSecurityInfo<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:495:5
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+onStartRequest@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:436:5
+Line: 1491, column: 5
+console.error: 
+  Handler function threw an exception: TypeError: this.transport is null
+Stack: send@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/main.js:1491:5
+NEA_addSecurityInfo@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/webconsole.js:2266:5
+NetworkResponseListener.prototype._getSecurityInfo<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:495:5
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+onStartRequest@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:436:5
+Line: 1491, column: 5
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/main.js, line 1491: TypeError: this.transport is null
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/main.js, line 1491: TypeError: this.transport is null
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1518683967713	Marionette	INFO	Ceased listening
+1518683971713	geckodriver	INFO	geckodriver 0.19.1
+1518683971717	geckodriver	INFO	Listening on 127.0.0.1:36367
+1518683972845	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.6h5jD3wD1vc2"
+1518683976959	Marionette	INFO	Listening on port 43921
+1518683977151	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1518684038299	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1518684038713	Marionette	INFO	Ceased listening
+1518684043170	geckodriver	INFO	geckodriver 0.19.1
+1518684043174	geckodriver	INFO	Listening on 127.0.0.1:32844
+1518684044291	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.IWTUyT1KJqTp"
+1518684047671	Marionette	INFO	Listening on port 46480
+1518684047776	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 996: TypeError: this._refMap is null
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 996: TypeError: this._refMap is null
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 996: TypeError: this._refMap is null
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 996: TypeError: this._refMap is null
+Handler function threw an exception: TypeError: this.transport is null
+Stack: send@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/main.js:1491:5
+NEA_addSecurityInfo@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/webconsole.js:2266:5
+NetworkResponseListener.prototype._getSecurityInfo<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:495:5
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+onStartRequest@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:436:5
+Line: 1491, column: 5
+console.error: 
+  Handler function threw an exception: TypeError: this.transport is null
+Stack: send@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/main.js:1491:5
+NEA_addSecurityInfo@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/webconsole.js:2266:5
+NetworkResponseListener.prototype._getSecurityInfo<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:495:5
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+onStartRequest@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:436:5
+Line: 1491, column: 5
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/main.js, line 1491: TypeError: this.transport is null
+Handler function threw an exception: TypeError: this.transport is null
+Stack: send@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/main.js:1491:5
+NEA_addSecurityInfo@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/webconsole.js:2266:5
+NetworkResponseListener.prototype._getSecurityInfo<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:495:5
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+onStartRequest@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:436:5
+Line: 1491, column: 5
+console.error: 
+  Handler function threw an exception: TypeError: this.transport is null
+Stack: send@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/main.js:1491:5
+NEA_addSecurityInfo@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/webconsole.js:2266:5
+NetworkResponseListener.prototype._getSecurityInfo<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:495:5
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+onStartRequest@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:436:5
+Line: 1491, column: 5
+Handler function threw an exception: TypeError: this.transport is null
+Stack: send@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/main.js:1491:5
+NEA_addSecurityInfo@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/webconsole.js:2266:5
+NetworkResponseListener.prototype._getSecurityInfo<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:495:5
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+onStartRequest@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:436:5
+Line: 1491, column: 5
+console.error: 
+  Handler function threw an exception: TypeError: this.transport is null
+Stack: send@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/main.js:1491:5
+NEA_addSecurityInfo@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/webconsole.js:2266:5
+NetworkResponseListener.prototype._getSecurityInfo<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:495:5
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+onStartRequest@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:436:5
+Line: 1491, column: 5
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/main.js, line 1491: TypeError: this.transport is null
+Handler function threw an exception: TypeError: this.transport is null
+Stack: send@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/main.js:1491:5
+NEA_addSecurityInfo@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/webconsole.js:2266:5
+NetworkResponseListener.prototype._getSecurityInfo<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:495:5
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+onStartRequest@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:436:5
+Line: 1491, column: 5
+console.error: 
+  Handler function threw an exception: TypeError: this.transport is null
+Stack: send@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/main.js:1491:5
+NEA_addSecurityInfo@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/webconsole.js:2266:5
+NetworkResponseListener.prototype._getSecurityInfo<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:495:5
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+onStartRequest@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:436:5
+Line: 1491, column: 5
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/main.js, line 1491: TypeError: this.transport is null
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 996: TypeError: this._refMap is null
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/main.js, line 1491: TypeError: this.transport is null
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 996: TypeError: this._refMap is null
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 996: TypeError: this._refMap is null
+Handler function threw an exception: TypeError: this.transport is null
+Stack: send@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/main.js:1491:5
+NEA_addSecurityInfo@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/webconsole.js:2266:5
+NetworkResponseListener.prototype._getSecurityInfo<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:495:5
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+onStartRequest@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:436:5
+Line: 1491, column: 5
+console.error: 
+  Handler function threw an exception: TypeError: this.transport is null
+Stack: send@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/main.js:1491:5
+NEA_addSecurityInfo@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/webconsole.js:2266:5
+NetworkResponseListener.prototype._getSecurityInfo<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:495:5
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+onStartRequest@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:436:5
+Line: 1491, column: 5
+Handler function threw an exception: TypeError: this.transport is null
+Stack: send@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/main.js:1491:5
+NEA_addSecurityInfo@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/webconsole.js:2266:5
+NetworkResponseListener.prototype._getSecurityInfo<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:495:5
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+onStartRequest@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:436:5
+Line: 1491, column: 5
+console.error: 
+  Handler function threw an exception: TypeError: this.transport is null
+Stack: send@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/main.js:1491:5
+NEA_addSecurityInfo@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/webconsole.js:2266:5
+NetworkResponseListener.prototype._getSecurityInfo<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:495:5
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+onStartRequest@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:436:5
+Line: 1491, column: 5
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/main.js, line 1491: TypeError: this.transport is null
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/main.js, line 1491: TypeError: this.transport is null
+Handler function threw an exception: TypeError: this.transport is null
+Stack: send@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/main.js:1491:5
+NEA_addSecurityInfo@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/webconsole.js:2266:5
+NetworkResponseListener.prototype._getSecurityInfo<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:495:5
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+onStartRequest@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:436:5
+Line: 1491, column: 5
+console.error: 
+  Handler function threw an exception: TypeError: this.transport is null
+Stack: send@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/main.js:1491:5
+NEA_addSecurityInfo@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/webconsole.js:2266:5
+NetworkResponseListener.prototype._getSecurityInfo<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:495:5
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+onStartRequest@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:436:5
+Line: 1491, column: 5
+Handler function threw an exception: TypeError: this.transport is null
+Stack: send@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/main.js:1491:5
+NEA_addSecurityInfo@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/webconsole.js:2266:5
+NetworkResponseListener.prototype._getSecurityInfo<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:495:5
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+onStartRequest@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:436:5
+Line: 1491, column: 5
+console.error: 
+  Handler function threw an exception: TypeError: this.transport is null
+Stack: send@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/main.js:1491:5
+NEA_addSecurityInfo@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/webconsole.js:2266:5
+NetworkResponseListener.prototype._getSecurityInfo<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:495:5
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+onStartRequest@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:436:5
+Line: 1491, column: 5
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/main.js, line 1491: TypeError: this.transport is null
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/main.js, line 1491: TypeError: this.transport is null
+Handler function threw an exception: TypeError: this.transport is null
+Stack: send@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/main.js:1491:5
+NEA_addSecurityInfo@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/webconsole.js:2266:5
+NetworkResponseListener.prototype._getSecurityInfo<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:495:5
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+onStartRequest@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:436:5
+Line: 1491, column: 5
+console.error: 
+  Handler function threw an exception: TypeError: this.transport is null
+Stack: send@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/main.js:1491:5
+NEA_addSecurityInfo@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/webconsole.js:2266:5
+NetworkResponseListener.prototype._getSecurityInfo<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:495:5
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+onStartRequest@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:436:5
+Line: 1491, column: 5
+Handler function threw an exception: TypeError: this.transport is null
+Stack: send@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/main.js:1491:5
+NEA_addSecurityInfo@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/webconsole.js:2266:5
+NetworkResponseListener.prototype._getSecurityInfo<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:495:5
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+onStartRequest@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:436:5
+Line: 1491, column: 5
+console.error: 
+  Handler function threw an exception: TypeError: this.transport is null
+Stack: send@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/main.js:1491:5
+NEA_addSecurityInfo@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/webconsole.js:2266:5
+NetworkResponseListener.prototype._getSecurityInfo<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:495:5
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+onStartRequest@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:436:5
+Line: 1491, column: 5
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/main.js, line 1491: TypeError: this.transport is null
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/main.js, line 1491: TypeError: this.transport is null
+Handler function threw an exception: TypeError: this.transport is null
+Stack: send@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/main.js:1491:5
+NEA_addSecurityInfo@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/webconsole.js:2266:5
+NetworkResponseListener.prototype._getSecurityInfo<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:495:5
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+onStartRequest@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:436:5
+Line: 1491, column: 5
+console.error: 
+  Handler function threw an exception: TypeError: this.transport is null
+Stack: send@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/main.js:1491:5
+NEA_addSecurityInfo@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/webconsole.js:2266:5
+NetworkResponseListener.prototype._getSecurityInfo<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:495:5
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+onStartRequest@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:436:5
+Line: 1491, column: 5
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/main.js, line 1491: TypeError: this.transport is null
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1518684174133	Marionette	INFO	Ceased listening
+1518684184479	geckodriver	INFO	geckodriver 0.19.1
+1518684184481	geckodriver	INFO	Listening on 127.0.0.1:41672
+1518684185671	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.6ikDSROSsY53"
+1518684189162	Marionette	INFO	Listening on port 43649
+1518684189203	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/utils/markup.js, line 298: NS_ERROR_UNEXPECTED: 
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/webconsole.js, line 497: TypeError: aPool is null
+Handler function threw an exception: TypeError: this.transport is null
+Stack: send@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/main.js:1491:5
+NEA_addSecurityInfo@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/webconsole.js:2266:5
+NetworkResponseListener.prototype._getSecurityInfo<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:495:5
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+onStartRequest@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:436:5
+Line: 1491, column: 5
+console.error: 
+  Handler function threw an exception: TypeError: this.transport is null
+Stack: send@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/main.js:1491:5
+NEA_addSecurityInfo@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/webconsole.js:2266:5
+NetworkResponseListener.prototype._getSecurityInfo<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:495:5
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+onStartRequest@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:436:5
+Line: 1491, column: 5
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/main.js, line 1491: TypeError: this.transport is null
+JavaScript error: https://mbp.yimg.com/sy/os/mit/td/aperollup-min-02adc10c_desktop_advance.js, line 4: TypeError: e.config.win.location is null
+1518684645997	geckodriver	INFO	geckodriver 0.19.1
+1518684646003	geckodriver	INFO	Listening on 127.0.0.1:58691
+1518684647184	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.Ys6yNOYfJ05M"
+JavaScript error: chrome://marionette/content/server.js, line 330: NS_ERROR_SOCKET_ADDRESS_IN_USE: Component returned failure code: 0x804b0036 (NS_ERROR_SOCKET_ADDRESS_IN_USE) [nsIServerSocket.initSpecialConnection]
+1518684664252	Marionette	INFO	Ceased listening
+1518684674252	geckodriver	INFO	geckodriver 0.19.1
+1518684674257	geckodriver	INFO	Listening on 127.0.0.1:56591
+1518684675436	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.w0S80ILqPwbW"
+1518684678548	Marionette	INFO	Listening on port 41087
+1518684678822	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+JavaScript warning: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/client/shared/demangle.js, line 0: Successfully compiled asm.js code (total compilation time 90ms; unable to cache asm.js in synchronous scripts; try loading asm.js via <script async> or createElement('script'))
+JavaScript error: http://catchbug.blogspot.in/2014/06/selenium-different-ways-of-moving.html, line 1265: ReferenceError: SyntaxHighlighter is not defined
+JavaScript error: http://catchbug.blogspot.in/_/im/_/widget/render/plus/follow?usegapi=1&action=follow&width=100&hl=en&origin=http%3A%2F%2Fcatchbug.blogspot.in&url=https%3A%2F%2Fplus.google.com%2F105893625749168644320&gsrc=3p&ic=1&jsh=m%3B%2F_%2Fscs%2Fapps-static%2F_%2Fjs%2Fk%3Doz.gapi.en_US.7knau9ynRZo.O%2Fm%3D__features__%2Fam%3DIA%2Frt%3Dj%2Fd%3D1%2Frs%3DAGLTcCNO1OW5Imhr4vxDSCPjWsdKHsIWGw#_methods=onPlusOne%2C_ready%2C_close%2C_open%2C_resizeMe%2C_renderstart%2Concircled%2Cdrefresh%2Cerefresh%2Conload&id=I1_1518685133264&_gfid=I1_1518685133264&parent=http%3A%2F%2Fcatchbug.blogspot.in&pfname=&rpctoken=35186350, line 1264: ReferenceError: SyntaxHighlighter is not defined
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+console.error: 
+  Message: [Exception... "Component is not available"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js :: imageToImageData< :: line 3221"  data: no]
+  Stack:
+    imageToImageData<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js:3221:5
+_run@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/task.js:311:39
+process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:922:23
+walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:806:7
+scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:742:11
+
+imageToImageData<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js:3221:5
+_run@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/task.js:311:39
+process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:922:23
+walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:806:7
+scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:742:11
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1658: TypeError: can't access dead object
+Handler function threw an exception: TypeError: this.transport is null
+Stack: send@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/main.js:1491:5
+NEA_addSecurityInfo@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/webconsole.js:2266:5
+NetworkResponseListener.prototype._getSecurityInfo<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:495:5
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+onStartRequest@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:436:5
+Line: 1491, column: 5
+console.error: 
+  Handler function threw an exception: TypeError: this.transport is null
+Stack: send@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/main.js:1491:5
+NEA_addSecurityInfo@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/webconsole.js:2266:5
+NetworkResponseListener.prototype._getSecurityInfo<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:495:5
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+onStartRequest@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:436:5
+Line: 1491, column: 5
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/main.js, line 1491: TypeError: this.transport is null
+Handler function threw an exception: TypeError: this.transport is null
+Stack: send@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/main.js:1491:5
+NEA_addSecurityInfo@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/webconsole.js:2266:5
+NetworkResponseListener.prototype._getSecurityInfo<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:495:5
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+onStartRequest@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:436:5
+Line: 1491, column: 5
+console.error: 
+  Handler function threw an exception: TypeError: this.transport is null
+Stack: send@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/main.js:1491:5
+NEA_addSecurityInfo@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/webconsole.js:2266:5
+NetworkResponseListener.prototype._getSecurityInfo<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:495:5
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+onStartRequest@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:436:5
+Line: 1491, column: 5
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/main.js, line 1491: TypeError: this.transport is null
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1518685232332	Marionette	INFO	Ceased listening
+JavaScript error: https://www.blogger.com/static/v1/widgets/3953819307-widgets.js, line 30: TypeError: a is null
+1518685439840	geckodriver	INFO	geckodriver 0.19.1
+1518685439844	geckodriver	INFO	Listening on 127.0.0.1:57343
+1518685441008	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.gGRZfsU7BZBd"
+1518685444618	Marionette	INFO	Listening on port 44421
+1518685444729	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+JavaScript error: https://developer.mozilla.org/en-US/docs/Web/API/HTMLElement/offsetTop, line 40: ReferenceError: Mozilla is not defined
+JavaScript error: https://developer.mozilla.org/en-US/docs/Tools/Page_Inspector/How_to/Reposition_elements_in_the_page, line 44: ReferenceError: Mozilla is not defined
+JavaScript error: https://developer.mozilla.org/en-US/docs/Web/CSS/offset, line 40: ReferenceError: Mozilla is not defined
+JavaScript error: https://developer.mozilla.org/en-US/docs/Web/API/HTMLElement/offsetParent, line 40: ReferenceError: Mozilla is not defined
+JavaScript error: https://www.blogger.com/static/v1/widgets/3953819307-widgets.js, line 30: TypeError: a is null
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1518688877290	geckodriver	INFO	geckodriver 0.19.1
+1518688877293	geckodriver	INFO	Listening on 127.0.0.1:35735
+1518688878418	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.yKe8kVEd94n1"
+1518688881662	Marionette	INFO	Listening on port 44951
+1518688881929	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1518688982453	geckodriver	INFO	geckodriver 0.19.1
+1518688982458	geckodriver	INFO	Listening on 127.0.0.1:51389
+1518688983591	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.2TpfcSj4m38C"
+1518688987048	Marionette	INFO	Listening on port 34517
+1518688987171	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1518688989675	Marionette	INFO	Ceased listening
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1518689014457	Marionette	INFO	Ceased listening
+1518689069346	geckodriver	INFO	geckodriver 0.19.1
+1518689069375	geckodriver	INFO	Listening on 127.0.0.1:39342
+1518689070477	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.M8Lrz4NN7D41"
+1518689074230	Marionette	INFO	Listening on port 46004
+1518689074299	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1518689092090	Marionette	INFO	Ceased listening
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1518689112265	Marionette	INFO	Ceased listening
+1518689115983	geckodriver	INFO	geckodriver 0.19.1
+1518689115987	geckodriver	INFO	Listening on 127.0.0.1:56745
+1518689117169	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.J19C1qznE9Bq"
+1518689120658	Marionette	INFO	Listening on port 44728
+1518689120701	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+JavaScript error: https://mbp.yimg.com/sy/os/mit/td/aperollup-min-02adc10c_desktop_advance.js, line 39: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1518689144635	Marionette	INFO	Ceased listening
+1518689146353	geckodriver	INFO	geckodriver 0.19.1
+1518689146359	geckodriver	INFO	Listening on 127.0.0.1:36579
+1518689147510	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.lXokBzRJLZfr"
+1518689151101	Marionette	INFO	Listening on port 36921
+1518689151145	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1518689167901	Marionette	INFO	Ceased listening
+1518690733324	geckodriver	INFO	geckodriver 0.19.1
+1518690733330	geckodriver	INFO	Listening on 127.0.0.1:59949
+1518690734504	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.IhPGSR8r4HTV"
+1518690738284	Marionette	INFO	Listening on port 38576
+1518690738337	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 104: TypeError: this._recipeManager is null
+console.warn: nsLoginManager: searchLogins: `formSubmitURL` or `httpRealm` is recommended
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1518690812668	Marionette	INFO	Ceased listening
+1518690814053	geckodriver	INFO	geckodriver 0.19.1
+1518690814057	geckodriver	INFO	Listening on 127.0.0.1:35564
+1518690815154	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.vntcZuk01o11"
+1518690818701	Marionette	INFO	Listening on port 40398
+1518690818803	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+
+(firefox:12640): Gtk-CRITICAL **: gtk_clipboard_set_with_data: assertion 'targets != NULL' failed
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/webconsole.js, line 497: TypeError: aPool is null
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/webconsole.js, line 497: TypeError: aPool is null
+Handler function threw an exception: TypeError: this.transport is null
+Stack: send@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/main.js:1491:5
+NEA_addSecurityInfo@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/webconsole.js:2266:5
+NetworkResponseListener.prototype._getSecurityInfo<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:495:5
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+onStartRequest@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:436:5
+Line: 1491, column: 5
+console.error: 
+  Handler function threw an exception: TypeError: this.transport is null
+Stack: send@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/main.js:1491:5
+NEA_addSecurityInfo@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/webconsole.js:2266:5
+NetworkResponseListener.prototype._getSecurityInfo<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:495:5
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+onStartRequest@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:436:5
+Line: 1491, column: 5
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/main.js, line 1491: TypeError: this.transport is null
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1518691111769	Marionette	INFO	Ceased listening
+1518691113797	geckodriver	INFO	geckodriver 0.19.1
+1518691113800	geckodriver	INFO	Listening on 127.0.0.1:45242
+1518691114943	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.SNstVogUvKci"
+1518691118365	Marionette	INFO	Listening on port 38909
+1518691118469	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+
+(firefox:12782): Gtk-CRITICAL **: gtk_clipboard_set_with_data: assertion 'targets != NULL' failed
+
+(firefox:12782): Gtk-CRITICAL **: gtk_clipboard_set_with_data: assertion 'targets != NULL' failed
+
+(firefox:12782): Gtk-CRITICAL **: gtk_clipboard_set_with_data: assertion 'targets != NULL' failed
+
+(firefox:12782): Gtk-CRITICAL **: gtk_clipboard_set_with_data: assertion 'targets != NULL' failed
+
+(firefox:12782): Gtk-CRITICAL **: gtk_clipboard_set_with_data: assertion 'targets != NULL' failed
+console.error: 
+  Got an addition of an actor we didn't know about: server1.conn0.child1/domnode251
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: can't convert null to object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: can't convert null to object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: can't convert null to object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: can't convert null to object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: can't convert null to object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: can't convert null to object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: can't convert null to object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: can't convert null to object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: can't convert null to object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: can't convert null to object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: can't convert null to object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: can't convert null to object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: can't convert null to object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: can't convert null to object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: can't convert null to object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: can't convert null to object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: can't convert null to object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: can't convert null to object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: can't convert null to object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: can't convert null to object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: can't convert null to object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: can't convert null to object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: can't convert null to object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: can't convert null to object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: can't convert null to object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: can't convert null to object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: can't convert null to object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: can't convert null to object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: can't convert null to object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: can't convert null to object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: can't convert null to object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: can't convert null to object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: can't convert null to object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: can't convert null to object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: can't convert null to object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: can't convert null to object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: can't convert null to object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: can't convert null to object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: can't convert null to object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: can't convert null to object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: can't convert null to object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: can't convert null to object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: can't convert null to object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: can't convert null to object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: can't convert null to object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: can't convert null to object
+Handler function threw an exception: TypeError: this.transport is null
+Stack: send@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/main.js:1491:5
+NEA_addSecurityInfo@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/webconsole.js:2266:5
+NetworkResponseListener.prototype._getSecurityInfo<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:495:5
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+onStartRequest@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:436:5
+Line: 1491, column: 5
+console.error: 
+  Handler function threw an exception: TypeError: this.transport is null
+Stack: send@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/main.js:1491:5
+NEA_addSecurityInfo@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/webconsole.js:2266:5
+NetworkResponseListener.prototype._getSecurityInfo<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:495:5
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+onStartRequest@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:436:5
+Line: 1491, column: 5
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/main.js, line 1491: TypeError: this.transport is null
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 202: TypeError: can't convert null to object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 996: TypeError: this._refMap is null
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 996: TypeError: this._refMap is null
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 996: TypeError: this._refMap is null
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 996: TypeError: this._refMap is null
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 996: TypeError: this._refMap is null
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 996: TypeError: this._refMap is null
+Handler function threw an exception: TypeError: this.transport is null
+Stack: send@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/main.js:1491:5
+NEA_addSecurityInfo@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/webconsole.js:2266:5
+NetworkResponseListener.prototype._getSecurityInfo<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:495:5
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+onStartRequest@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:436:5
+Line: 1491, column: 5
+console.error: 
+  Handler function threw an exception: TypeError: this.transport is null
+Stack: send@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/main.js:1491:5
+NEA_addSecurityInfo@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/webconsole.js:2266:5
+NetworkResponseListener.prototype._getSecurityInfo<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:495:5
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+onStartRequest@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:436:5
+Line: 1491, column: 5
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/main.js, line 1491: TypeError: this.transport is null
+1518691515027	geckodriver	INFO	geckodriver 0.19.1
+1518691515033	geckodriver	INFO	Listening on 127.0.0.1:38356
+1518691516228	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.6Tlv7H2A1lKf"
+1518691519142	Marionette	INFO	Listening on port 41494
+1518691519654	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1518691765243	geckodriver	INFO	geckodriver 0.19.1
+1518691765247	geckodriver	INFO	Listening on 127.0.0.1:50397
+1518691766401	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.8Ez9JU60Acpi"
+1518691770125	Marionette	INFO	Listening on port 34887
+1518691770469	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1518691798820	Marionette	INFO	Ceased listening
+1518691811100	geckodriver	INFO	geckodriver 0.19.1
+1518691811104	geckodriver	INFO	Listening on 127.0.0.1:58077
+1518691812279	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.1TQJrbN4UoVz"
+1518691817605	Marionette	INFO	Listening on port 43373
+1518691817905	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1518691839397	Marionette	INFO	Ceased listening
+Handler function threw an exception: TypeError: this.transport is null
+Stack: send@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/main.js:1491:5
+NEA_addSecurityInfo@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/webconsole.js:2266:5
+NetworkResponseListener.prototype._getSecurityInfo<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:495:5
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+onStartRequest@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:436:5
+Line: 1491, column: 5
+console.error: 
+  Handler function threw an exception: TypeError: this.transport is null
+Stack: send@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/main.js:1491:5
+NEA_addSecurityInfo@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/webconsole.js:2266:5
+NetworkResponseListener.prototype._getSecurityInfo<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:495:5
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+onStartRequest@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:436:5
+Line: 1491, column: 5
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/main.js, line 1491: TypeError: this.transport is null
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1518691842301	Marionette	INFO	Ceased listening
+1518691848167	geckodriver	INFO	geckodriver 0.19.1
+1518691848170	geckodriver	INFO	Listening on 127.0.0.1:38794
+1518691849343	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.mVUXhSFe5jY7"
+1518691853050	Marionette	INFO	Listening on port 33292
+1518691853348	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1518692000210	Marionette	INFO	Ceased listening
+1518692004194	geckodriver	INFO	geckodriver 0.19.1
+1518692004198	geckodriver	INFO	Listening on 127.0.0.1:55461
+1518692005299	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.XDWObJbbIGnC"
+1518692009215	Marionette	INFO	Listening on port 37083
+1518692009375	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1518692733779	geckodriver	INFO	geckodriver 0.19.1
+1518692733782	geckodriver	INFO	Listening on 127.0.0.1:44327
+1518692734928	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.zWkCd5GNWXc2"
+1518692738268	Marionette	INFO	Listening on port 43712
+1518692738363	Marionette	WARN	TLS certificate errors will be ignored for this session
+1518692843053	geckodriver	INFO	geckodriver 0.19.1
+1518692843061	geckodriver	INFO	Listening on 127.0.0.1:33652
+1518692844187	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.dldMRrhftAx4"
+1518692847635	Marionette	INFO	Listening on port 45103
+1518692847718	Marionette	WARN	TLS certificate errors will be ignored for this session
+1518692859541	geckodriver	INFO	geckodriver 0.19.1
+1518692859544	geckodriver	INFO	Listening on 127.0.0.1:50874
+1518692860698	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.Eum6W2CFBbez"
+1518692863595	Marionette	INFO	Listening on port 40521
+1518692864091	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1518693050357	geckodriver	INFO	geckodriver 0.19.1
+1518693050361	geckodriver	INFO	Listening on 127.0.0.1:41124
+1518693051518	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.rOO7TWHxYf8q"
+1518693054873	Marionette	INFO	Listening on port 34925
+1518693054950	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1518693113326	geckodriver	INFO	geckodriver 0.19.1
+1518693113328	geckodriver	INFO	Listening on 127.0.0.1:54253
+1518693114498	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.s4cPZCtziffN"
+1518693118034	Marionette	INFO	Listening on port 46089
+1518693118144	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1518693323329	geckodriver	INFO	geckodriver 0.19.1
+1518693323386	geckodriver	INFO	Listening on 127.0.0.1:60271
+1518693324614	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.8cUMi1cHYpKz"
+1518693334924	Marionette	INFO	Listening on port 35726
+1518693335304	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1658: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1658: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1658: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1658: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1658: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1658: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1658: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1658: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1658: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1658: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1658: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1658: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1658: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1658: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1658: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1658: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1658: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1658: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1658: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1658: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1658: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1658: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1658: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1658: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1658: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1658: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1658: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1658: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1658: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1658: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1658: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1658: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1658: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1658: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1658: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1658: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1658: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1658: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1658: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1658: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1658: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1658: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1658: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1658: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1658: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1658: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1658: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1658: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1658: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1658: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1658: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1658: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1658: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1658: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1658: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1658: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1658: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1658: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1658: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1658: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1658: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1658: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1658: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1658: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1658: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1658: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1658: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1658: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1658: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1658: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1658: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1658: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1658: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1658: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1658: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1658: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1658: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1658: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1658: TypeError: can't access dead object
+Handler function threw an exception: TypeError: this.transport is null
+Stack: send@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/main.js:1491:5
+NEA_addSecurityInfo@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/webconsole.js:2266:5
+NetworkResponseListener.prototype._getSecurityInfo<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:495:5
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+onStartRequest@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:436:5
+Line: 1491, column: 5
+console.error: 
+  Handler function threw an exception: TypeError: this.transport is null
+Stack: send@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/main.js:1491:5
+NEA_addSecurityInfo@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/webconsole.js:2266:5
+NetworkResponseListener.prototype._getSecurityInfo<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:495:5
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+onStartRequest@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:436:5
+Line: 1491, column: 5
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/main.js, line 1491: TypeError: this.transport is null
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1518693477362	Marionette	INFO	Ceased listening
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1518695344276	Marionette	INFO	Ceased listening
+1518695420639	geckodriver	INFO	geckodriver 0.19.1
+1518695420647	geckodriver	INFO	Listening on 127.0.0.1:34503
+1518695421861	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.lHM2hKBt9yPW"
+1518695429711	Marionette	INFO	Listening on port 41557
+1518695429941	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1518695466568	geckodriver	INFO	geckodriver 0.19.1
+1518695466572	geckodriver	INFO	Listening on 127.0.0.1:50516
+1518695467746	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.gNvEcqP5DanV"
+1518695471231	Marionette	INFO	Listening on port 45815
+1518695471278	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1518695504794	Marionette	INFO	Ceased listening
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1518695509264	Marionette	INFO	Ceased listening
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1518695511646	Marionette	INFO	Ceased listening
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1518697750110	Marionette	INFO	Ceased listening
+1518759636614	geckodriver	INFO	geckodriver 0.19.1
+1518759636633	geckodriver	INFO	Listening on 127.0.0.1:48302
+1518759637801	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.fMYVHhqpiaQY"
+1518759643593	Marionette	INFO	Listening on port 43619
+1518759643637	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+Handler function threw an exception: TypeError: this.transport is null
+Stack: send@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/main.js:1491:5
+NEA_addSecurityInfo@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/webconsole.js:2266:5
+NetworkResponseListener.prototype._getSecurityInfo<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:495:5
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+onStartRequest@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:436:5
+Line: 1491, column: 5
+console.error: 
+  Handler function threw an exception: TypeError: this.transport is null
+Stack: send@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/main.js:1491:5
+NEA_addSecurityInfo@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/webconsole.js:2266:5
+NetworkResponseListener.prototype._getSecurityInfo<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:495:5
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+onStartRequest@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:436:5
+Line: 1491, column: 5
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/main.js, line 1491: TypeError: this.transport is null
+
+(firefox:6780): Gtk-CRITICAL **: gtk_clipboard_set_with_data: assertion 'targets != NULL' failed
+
+(firefox:6780): Gtk-CRITICAL **: gtk_clipboard_set_with_data: assertion 'targets != NULL' failed
+Handler function threw an exception: TypeError: this.transport is null
+Stack: send@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/main.js:1491:5
+NEA_addSecurityInfo@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/webconsole.js:2266:5
+NetworkResponseListener.prototype._getSecurityInfo<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:495:5
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+onStartRequest@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:436:5
+Line: 1491, column: 5
+console.error: 
+  Handler function threw an exception: TypeError: this.transport is null
+Stack: send@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/main.js:1491:5
+NEA_addSecurityInfo@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/webconsole.js:2266:5
+NetworkResponseListener.prototype._getSecurityInfo<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:495:5
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+onStartRequest@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:436:5
+Line: 1491, column: 5
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/main.js, line 1491: TypeError: this.transport is null
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1518760480422	Marionette	INFO	Ceased listening
+1518760654321	geckodriver	INFO	geckodriver 0.19.1
+1518760654325	geckodriver	INFO	Listening on 127.0.0.1:43630
+1518760655497	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.Cg9RKtMavRZy"
+1518760659433	Marionette	INFO	Listening on port 42643
+1518760659755	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+JavaScript error: https://mbp.yimg.com/sy/os/mit/td/aperollup-min-02adc10c_desktop_advance.js, line 4: TypeError: e.config.win.location is null
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1518760757183	Marionette	INFO	Ceased listening
+1518760758638	geckodriver	INFO	geckodriver 0.19.1
+1518760758643	geckodriver	INFO	Listening on 127.0.0.1:53698
+1518760759831	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.H9KHoxvAY3M0"
+1518760763027	Marionette	INFO	Listening on port 36878
+1518760763346	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+JavaScript error: https://mbp.yimg.com/sy/os/mit/td/aperollup-min-02adc10c_desktop_advance.js, line 39: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1518760879643	Marionette	INFO	Ceased listening
+1518760971261	geckodriver	INFO	geckodriver 0.19.1
+1518760971264	geckodriver	INFO	Listening on 127.0.0.1:35992
+1518760972451	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.GRMlEhfFsj4n"
+1518760975939	Marionette	INFO	Listening on port 40087
+1518760975981	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1518761014098	Marionette	INFO	Ceased listening
+1518761019889	geckodriver	INFO	geckodriver 0.19.1
+1518761019893	geckodriver	INFO	Listening on 127.0.0.1:48594
+1518761021046	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.0iTUzkAf7zLZ"
+1518761024119	Marionette	INFO	Listening on port 44774
+1518761024438	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1518761111117	geckodriver	INFO	geckodriver 0.19.1
+1518761111120	geckodriver	INFO	Listening on 127.0.0.1:54102
+1518761112262	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.LLmPLaKeOVt9"
+1518761115249	Marionette	INFO	Listening on port 44506
+1518761115770	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+Handler function threw an exception: TypeError: this.transport is null
+Stack: send@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/main.js:1491:5
+NEA_addSecurityInfo@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/webconsole.js:2266:5
+NetworkResponseListener.prototype._getSecurityInfo<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:495:5
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+onStartRequest@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:436:5
+Line: 1491, column: 5
+console.error: 
+  Handler function threw an exception: TypeError: this.transport is null
+Stack: send@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/main.js:1491:5
+NEA_addSecurityInfo@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/webconsole.js:2266:5
+NetworkResponseListener.prototype._getSecurityInfo<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:495:5
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+onStartRequest@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:436:5
+Line: 1491, column: 5
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/main.js, line 1491: TypeError: this.transport is null
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1518761208738	Marionette	INFO	Ceased listening
+Handler function threw an exception: TypeError: this.transport is null
+Stack: send@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/main.js:1491:5
+NEA_addSecurityInfo@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/webconsole.js:2266:5
+NetworkResponseListener.prototype._getSecurityInfo<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:495:5
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+onStartRequest@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:436:5
+Line: 1491, column: 5
+console.error: 
+  Handler function threw an exception: TypeError: this.transport is null
+Stack: send@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/main.js:1491:5
+NEA_addSecurityInfo@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/webconsole.js:2266:5
+NetworkResponseListener.prototype._getSecurityInfo<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:495:5
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+onStartRequest@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:436:5
+Line: 1491, column: 5
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/main.js, line 1491: TypeError: this.transport is null
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1518761222083	Marionette	INFO	Ceased listening
+1518761225535	geckodriver	INFO	geckodriver 0.19.1
+1518761225537	geckodriver	INFO	Listening on 127.0.0.1:44676
+1518761225637	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.75aFptsu8ZEK"
+1518761229310	Marionette	INFO	Listening on port 42653
+1518761229375	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1658: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1658: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1658: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1658: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1658: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1658: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1658: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1658: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1658: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1658: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1658: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1658: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1658: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1658: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1658: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1658: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1658: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1658: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1658: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1658: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1658: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1658: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1658: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1658: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1658: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1658: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1658: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1658: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1658: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1658: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1658: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1658: TypeError: can't access dead object
+Handler function threw an exception: TypeError: this.transport is null
+Stack: send@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/main.js:1491:5
+NEA_addSecurityInfo@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/webconsole.js:2266:5
+NetworkResponseListener.prototype._getSecurityInfo<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:495:5
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+onStartRequest@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:436:5
+Line: 1491, column: 5
+console.error: 
+  Handler function threw an exception: TypeError: this.transport is null
+Stack: send@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/main.js:1491:5
+NEA_addSecurityInfo@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/webconsole.js:2266:5
+NetworkResponseListener.prototype._getSecurityInfo<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:495:5
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+onStartRequest@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:436:5
+Line: 1491, column: 5
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/main.js, line 1491: TypeError: this.transport is null
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1518761357225	Marionette	INFO	Ceased listening
+1518761360298	geckodriver	INFO	geckodriver 0.19.1
+1518761360301	geckodriver	INFO	Listening on 127.0.0.1:48258
+1518761361463	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.iV7Ll4jMlXF1"
+1518761364720	Marionette	INFO	Listening on port 46273
+1518761365013	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1518761387506	geckodriver	INFO	geckodriver 0.19.1
+1518761387509	geckodriver	INFO	Listening on 127.0.0.1:42187
+1518761388620	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.VYV7lm8oRTgX"
+1518761392231	Marionette	INFO	Listening on port 46074
+1518761392352	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+JavaScript error: https://pubmatic.com/legal/platform-cookie-policy/, line 100: ReferenceError: twttr is not defined
+JavaScript error: https://pubmatic.com/legal/website-cookie-policy/, line 100: ReferenceError: twttr is not defined
+1518761784693	geckodriver	INFO	geckodriver 0.19.1
+1518761784696	geckodriver	INFO	Listening on 127.0.0.1:60476
+1518761785813	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.PH1xLJziPEnX"
+1518761789841	Marionette	INFO	Listening on port 46130
+1518761789932	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+JavaScript error: resource://gre/modules/LoginManagerParent.jsm, line 104: TypeError: this._recipeManager is null
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1518763883142	Marionette	INFO	Ceased listening
+Handler function threw an exception: TypeError: this.transport is null
+Stack: send@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/main.js:1491:5
+NEA_addSecurityInfo@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/webconsole.js:2266:5
+NetworkResponseListener.prototype._getSecurityInfo<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:495:5
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+onStartRequest@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:436:5
+Line: 1491, column: 5
+console.error: 
+  Handler function threw an exception: TypeError: this.transport is null
+Stack: send@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/main.js:1491:5
+NEA_addSecurityInfo@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/webconsole.js:2266:5
+NetworkResponseListener.prototype._getSecurityInfo<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:495:5
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+onStartRequest@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:436:5
+Line: 1491, column: 5
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/main.js, line 1491: TypeError: this.transport is null
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1518763889289	Marionette	INFO	Ceased listening
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1518763891226	Marionette	INFO	Ceased listening
+1519188218194	geckodriver	INFO	geckodriver 0.19.1
+1519188218215	geckodriver	INFO	Listening on 127.0.0.1:45694
+1519188219373	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.B2IC4KFzTM1f"
+1519188226198	Marionette	INFO	Listening on port 38588
+1519188226486	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1519188231387	Marionette	INFO	Ceased listening
+1519188334789	geckodriver	INFO	geckodriver 0.19.1
+1519188334792	geckodriver	INFO	Listening on 127.0.0.1:42038
+1519188335977	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.nBk49mMc4uxV"
+1519188339139	Marionette	INFO	Listening on port 37515
+1519188339198	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1519188344755	Marionette	INFO	Ceased listening
+1519188356060	geckodriver	INFO	geckodriver 0.19.1
+1519188356066	geckodriver	INFO	Listening on 127.0.0.1:48258
+1519188357214	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.UupbW88rSBX9"
+1519188360402	Marionette	INFO	Listening on port 37009
+1519188360444	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1519188423772	geckodriver	INFO	geckodriver 0.19.1
+1519188423776	geckodriver	INFO	Listening on 127.0.0.1:45243
+1519188424939	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.toqw0zBScrXn"
+1519188428235	Marionette	INFO	Listening on port 45971
+1519188428276	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1519188437229	Marionette	INFO	Ceased listening
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1519188438175	Marionette	INFO	Ceased listening
+1519188464086	geckodriver	INFO	geckodriver 0.19.1
+1519188464089	geckodriver	INFO	Listening on 127.0.0.1:47960
+1519188464213	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.XOVgoiDbHDuT"
+1519188467607	Marionette	INFO	Listening on port 33520
+1519188467645	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1519188495773	Marionette	INFO	Ceased listening
+1519188500542	geckodriver	INFO	geckodriver 0.19.1
+1519188500547	geckodriver	INFO	Listening on 127.0.0.1:54265
+1519188501713	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.NKSZ0nCoRetn"
+1519188504906	Marionette	INFO	Listening on port 34410
+1519188504947	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1519188639656	geckodriver	INFO	geckodriver 0.19.1
+1519188639659	geckodriver	INFO	Listening on 127.0.0.1:47743
+1519188640788	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.PquXHufA3mTM"
+1519188643961	Marionette	INFO	Listening on port 44496
+1519188644187	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1519188704734	Marionette	INFO	Ceased listening
+1519188719098	geckodriver	INFO	geckodriver 0.19.1
+1519188719103	geckodriver	INFO	Listening on 127.0.0.1:41560
+1519188720259	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.5g5iQUPuZEGw"
+1519188723462	Marionette	INFO	Listening on port 40791
+1519188723501	Marionette	WARN	TLS certificate errors will be ignored for this session
+1519188750353	geckodriver	INFO	geckodriver 0.19.1
+1519188750359	geckodriver	INFO	Listening on 127.0.0.1:55246
+1519188751520	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.filmDaysieGa"
+1519188754344	Marionette	INFO	Listening on port 33606
+1519188754618	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1519188808530	Marionette	INFO	Ceased listening
+1519188851846	geckodriver	INFO	geckodriver 0.19.1
+1519188851851	geckodriver	INFO	Listening on 127.0.0.1:60405
+1519188852999	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.CpAKEATfhD2I"
+1519188856567	Marionette	INFO	Listening on port 36293
+1519188856663	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1658: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1658: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1658: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1658: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1658: TypeError: can't access dead object
+console.error: 
+  Got a removal of an actor we didn't know about: server1.conn0.child1/domnode176
+console.error: 
+  Got an addition of an actor we didn't know about: server1.conn0.child1/domnode205
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1658: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1658: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1658: TypeError: can't access dead object
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/tab.js, line 1658: TypeError: can't access dead object
+Handler function threw an exception: TypeError: this.transport is null
+Stack: send@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/main.js:1491:5
+NEA_addSecurityInfo@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/webconsole.js:2266:5
+NetworkResponseListener.prototype._getSecurityInfo<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:495:5
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+onStartRequest@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:436:5
+Line: 1491, column: 5
+console.error: 
+  Handler function threw an exception: TypeError: this.transport is null
+Stack: send@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/main.js:1491:5
+NEA_addSecurityInfo@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/webconsole.js:2266:5
+NetworkResponseListener.prototype._getSecurityInfo<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:495:5
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+onStartRequest@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:436:5
+Line: 1491, column: 5
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/main.js, line 1491: TypeError: this.transport is null
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1519188914106	Marionette	INFO	Ceased listening
+1519188915681	geckodriver	INFO	geckodriver 0.19.1
+1519188915686	geckodriver	INFO	Listening on 127.0.0.1:40788
+1519188916771	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.Uot9vlXIy8d5"
+1519188920216	Marionette	INFO	Listening on port 35600
+1519188920297	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+JavaScript error: https://mbp.yimg.com/sy/os/mit/td/aperollup-min-02adc10c_desktop_advance.js, line 4: ReferenceError: dust is not defined
+1519189236173	geckodriver	INFO	geckodriver 0.19.1
+1519189236176	geckodriver	INFO	Listening on 127.0.0.1:35892
+1519189237286	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.qdD4HAZXXppK"
+1519189241362	Marionette	INFO	Listening on port 33160
+1519189241409	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+console.error: 
+  Got an addition of an actor we didn't know about: server1.conn0.child1/domnode96
+JavaScript error: https://mbp.yimg.com/sy/os/mit/td/aperollup-min-02adc10c_desktop_advance.js, line 4: TypeError: e.config.win.location is null
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1519189312546	Marionette	INFO	Ceased listening
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1519189316000	Marionette	INFO	Ceased listening
+1519189321729	geckodriver	INFO	geckodriver 0.19.1
+1519189321732	geckodriver	INFO	Listening on 127.0.0.1:42527
+1519189322909	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.A88wYPcctUg9"
+1519189326801	Marionette	INFO	Listening on port 39594
+1519189326846	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1519189432961	geckodriver	INFO	geckodriver 0.19.1
+1519189432965	geckodriver	INFO	Listening on 127.0.0.1:34093
+1519189434145	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.Seex5mMlnRDj"
+1519189437575	Marionette	INFO	Listening on port 36074
+1519189437687	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+console.error: 
+  Got an addition of an actor we didn't know about: server1.conn0.child1/domnode96
+console.error: 
+  Got an addition of an actor we didn't know about: server1.conn1.child1/domnode96
+1519189588158	geckodriver	INFO	geckodriver 0.19.1
+1519189588162	geckodriver	INFO	Listening on 127.0.0.1:51932
+1519189589259	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.XcoW42bDQmmH"
+1519189592939	Marionette	INFO	Listening on port 42816
+1519189592983	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+console.error: 
+  Got an addition of an actor we didn't know about: server1.conn0.child1/domnode96
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1519189636343	Marionette	INFO	Ceased listening
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1519189639170	Marionette	INFO	Ceased listening
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1519189640904	Marionette	INFO	Ceased listening
+1521023457883	geckodriver	INFO	geckodriver 0.19.1
+1521023457898	geckodriver	INFO	Listening on 127.0.0.1:49443
+1521023459108	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.A7InRz5k4BaJ"
+1521023460806	Marionette	INFO	Enabled via --marionette
+1521023463760	Marionette	INFO	Listening on port 35271
+1521023463833	Marionette	WARN	TLS certificate errors will be ignored for this session
+libGL error: MESA-LOADER: could not get parent device
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: https://login.yahoo.com
+console.warn: nsLoginManager: searchLogins: `formSubmitURL` or `httpRealm` is recommended
+1521023560790	geckodriver	INFO	geckodriver 0.19.1
+1521023560794	geckodriver	INFO	Listening on 127.0.0.1:38073
+1521023561901	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.o40h8lM6GFsQ"
+1521023562774	Marionette	INFO	Enabled via --marionette
+1521023565319	Marionette	INFO	Listening on port 34705
+1521023565414	Marionette	WARN	TLS certificate errors will be ignored for this session
+libGL error: MESA-LOADER: could not get parent device
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1521023651853	geckodriver	INFO	geckodriver 0.19.1
+1521023651858	geckodriver	INFO	Listening on 127.0.0.1:44349
+1521023652956	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.ktlNqC6DE2vr"
+1521023653674	Marionette	INFO	Enabled via --marionette
+1521023656361	Marionette	INFO	Listening on port 38809
+1521023656378	Marionette	WARN	TLS certificate errors will be ignored for this session
+libGL error: MESA-LOADER: could not get parent device
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: https://login.yahoo.com
+console.warn: nsLoginManager: searchLogins: `formSubmitURL` or `httpRealm` is recommended
+1521023726316	geckodriver	INFO	geckodriver 0.19.1
+1521023726319	geckodriver	INFO	Listening on 127.0.0.1:60179
+1521023727416	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.SgKB87Hh9Lah"
+1521023728175	Marionette	INFO	Enabled via --marionette
+1521023730724	Marionette	INFO	Listening on port 45473
+1521023730727	Marionette	WARN	TLS certificate errors will be ignored for this session
+libGL error: MESA-LOADER: could not get parent device
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: https://login.yahoo.com
+console.warn: nsLoginManager: searchLogins: `formSubmitURL` or `httpRealm` is recommended
+1521023888110	geckodriver	INFO	geckodriver 0.19.1
+1521023888132	geckodriver	INFO	Listening on 127.0.0.1:37521
+1521023889222	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.Uv48iQbt4bVI"
+1521023889963	Marionette	INFO	Enabled via --marionette
+1521023892447	Marionette	INFO	Listening on port 45385
+1521023892535	Marionette	WARN	TLS certificate errors will be ignored for this session
+libGL error: MESA-LOADER: could not get parent device
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1521024047517	geckodriver	INFO	geckodriver 0.19.1
+1521024047520	geckodriver	INFO	Listening on 127.0.0.1:35753
+1521024048626	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.PEerohx4SSuX"
+1521024049335	Marionette	INFO	Enabled via --marionette
+1521024051841	Marionette	INFO	Listening on port 43215
+1521024051941	Marionette	WARN	TLS certificate errors will be ignored for this session
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+libGL error: MESA-LOADER: could not get parent device
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1521024240573	geckodriver	INFO	geckodriver 0.19.1
+1521024240576	geckodriver	INFO	Listening on 127.0.0.1:57505
+1521024241673	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-profile" "/tmp/rust_mozprofile.J4wKwEymtiqw"
+1521024242670	Marionette	INFO	Enabled via --marionette
+1521024245048	Marionette	INFO	Listening on port 42909
+1521024245100	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1534849949553	geckodriver	INFO	Listening on 127.0.0.1:47465
+1534849950593	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.82Zmw6kcyLfk
+1534849950593	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1534849950594	geckodriver::marionette	INFO	Connecting to Marionette on localhost:44441
+1534849954120	Marionette	INFO	Listening on port 2828
+[Parent 2514, Gecko_IOThread] WARNING: pipe error (60): Connection reset by peer: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/nsUrlClassifierListManager.js, line 321: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/nsUrlClassifierListManager.js, line 321: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1534850135885	geckodriver	INFO	Listening on 127.0.0.1:39021
+1534850136889	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.Is0vHRYNpVNR
+1534850136891	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1534850136894	geckodriver::marionette	INFO	Connecting to Marionette on localhost:40065
+1534850139836	Marionette	INFO	Listening on port 2828
+1534850141231	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIObserverService.removeObserver]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://activity-stream/lib/TelemetryFeed.jsm :: uninit :: line 493"  data: no] Stack trace: uninit()@resource://activity-stream/lib/TelemetryFeed.jsm:493
+onAction()@resource://activity-stream/lib/TelemetryFeed.jsm:451
+_middleware/</<()@resource://activity-stream/lib/Store.jsm:51
+Store/this[method]()@resource://activity-stream/lib/Store.jsm:29
+uninit()@resource://activity-stream/lib/Store.jsm:170
+uninit()@resource://activity-stream/lib/ActivityStream.jsm:318
+uninit()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:79
+shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:187
+callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:2757
+observe()@resource://gre/modules/addons/XPIProvider.jsm:1672
+console.error: PushService: 
+  clearOriginData: Error clearing origin data:
+  UnknownError
+console.error: PushService: 
+  clearOriginData: Error clearing origin data:
+  UnknownError
+console.error: PushService: 
+  stateChangeProcessEnqueue: Error transitioning state
+  UnknownError
+
+###!!! [Parent][DispatchAsyncMessage] Error: PBackgroundIDBFactory::Msg_PBackgroundIDBFactoryRequestConstructor Value error: message was deserialized, but contained an illegal value
+
+
+###!!! [Parent][DispatchAsyncMessage] Error: PBackgroundIDBFactory::Msg_PBackgroundIDBFactoryRequestConstructor Value error: message was deserialized, but contained an illegal value
+
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/nsUrlClassifierListManager.js, line 321: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/nsUrlClassifierListManager.js, line 321: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1534850574897	geckodriver	INFO	Listening on 127.0.0.1:35361
+1534850575894	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.95UbLzMeWhoR
+1534850575895	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1534850575898	geckodriver::marionette	INFO	Connecting to Marionette on localhost:32801
+1534850578559	Marionette	INFO	Listening on port 2828
+[Parent 3296, Gecko_IOThread] WARNING: pipe error (71): Connection reset by peer: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/nsUrlClassifierListManager.js, line 321: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/nsUrlClassifierListManager.js, line 321: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1534850615713	geckodriver	INFO	Listening on 127.0.0.1:46865
+1534850616718	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.32vA0XpIhYY0
+1534850616720	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1534850616723	geckodriver::marionette	INFO	Connecting to Marionette on localhost:46321
+1534850619444	Marionette	INFO	Listening on port 2828
+[Parent 3482, Gecko_IOThread] WARNING: pipe error (70): Connection reset by peer: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/nsUrlClassifierListManager.js, line 321: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/nsUrlClassifierListManager.js, line 321: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1534850677407	geckodriver	INFO	Listening on 127.0.0.1:42257
+1534850678411	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.97HJNM8bZlmv
+1534850678412	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1534850678413	geckodriver::marionette	INFO	Connecting to Marionette on localhost:39985
+1534850681133	Marionette	INFO	Listening on port 2828
+[Parent 3673, Gecko_IOThread] WARNING: pipe error (70): Connection reset by peer: file /build/firefox-mWstsA/firefox-61.0.1+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/nsUrlClassifierListManager.js, line 321: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/nsUrlClassifierListManager.js, line 321: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1537272328899	geckodriver	INFO	Listening on 127.0.0.1:58669
+1537272329870	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.WHEzcwC1eE3I
+1537272329870	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1537272329895	geckodriver::marionette	INFO	Connecting to Marionette on localhost:40465
+1537272334536	Marionette	INFO	Listening on port 2828
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/nsUrlClassifierListManager.js, line 321: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/nsUrlClassifierListManager.js, line 321: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1537272404885	Marionette	INFO	Stopped listening on port 2828
+1537272465851	geckodriver	INFO	Listening on 127.0.0.1:49267
+1537272466852	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.oAWU8lCOaVdF
+1537272466853	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1537272466855	geckodriver::marionette	INFO	Connecting to Marionette on localhost:42187
+1537272469575	Marionette	INFO	Listening on port 2828
+1537272538044	geckodriver	INFO	Listening on 127.0.0.1:34865
+1537272539046	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.rfP9eamUyeTk
+1537272539047	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1537272539049	geckodriver::marionette	INFO	Connecting to Marionette on localhost:42575
+1537272542582	Marionette	INFO	Listening on port 2828
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/nsUrlClassifierListManager.js, line 321: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/nsUrlClassifierListManager.js, line 321: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1537272554231	Marionette	INFO	Stopped listening on port 2828
+1537272726285	geckodriver	INFO	Listening on 127.0.0.1:41545
+1537272727285	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.Qqz6jhPjYZyW
+1537272727286	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1537272727287	geckodriver::marionette	INFO	Connecting to Marionette on localhost:33331
+1537272730109	Marionette	INFO	Listening on port 2828
+[Parent 9771, Gecko_IOThread] WARNING: pipe error (58): Connection reset by peer: file /build/firefox-8oo9jx/firefox-62.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/nsUrlClassifierListManager.js, line 321: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/nsUrlClassifierListManager.js, line 321: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1537272738372	Marionette	INFO	Stopped listening on port 2828
+1537272768611	geckodriver	INFO	Listening on 127.0.0.1:36293
+1537272769615	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.sVZmjAH4GgoL
+1537272769617	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1537272769618	geckodriver::marionette	INFO	Connecting to Marionette on localhost:36665
+1537272772370	Marionette	INFO	Listening on port 2828
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/nsUrlClassifierListManager.js, line 321: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/nsUrlClassifierListManager.js, line 321: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1537272780894	Marionette	INFO	Stopped listening on port 2828
+1537272825854	geckodriver	INFO	Listening on 127.0.0.1:53681
+1537272826858	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.s0SR24TU5HX7
+1537272826860	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1537272826863	geckodriver::marionette	INFO	Connecting to Marionette on localhost:42175
+1537272829577	Marionette	INFO	Listening on port 2828
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/nsUrlClassifierListManager.js, line 321: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/nsUrlClassifierListManager.js, line 321: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1537272838357	Marionette	INFO	Stopped listening on port 2828
+1537272852003	geckodriver	INFO	Listening on 127.0.0.1:60663
+1537272853007	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.TwHobG4AELvO
+1537272853008	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1537272853009	geckodriver::marionette	INFO	Connecting to Marionette on localhost:34603
+1537272855714	Marionette	INFO	Listening on port 2828
+JavaScript error: resource:///modules/NetErrorContent.jsm, line 417: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIStringBundle.GetStringFromName]
+1537272924450	geckodriver	INFO	Listening on 127.0.0.1:58817
+1537272925454	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.MgIVlbAQDnH7
+1537272925456	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1537272925459	geckodriver::marionette	INFO	Connecting to Marionette on localhost:35315
+1537272928069	Marionette	INFO	Listening on port 2828
+[Parent 10771, Gecko_IOThread] WARNING: pipe error (65): Connection reset by peer: file /build/firefox-8oo9jx/firefox-62.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/nsUrlClassifierListManager.js, line 321: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/nsUrlClassifierListManager.js, line 321: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1537272936999	Marionette	INFO	Stopped listening on port 2828
+1537273046989	geckodriver	INFO	Listening on 127.0.0.1:54401
+1537273047937	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.xun8WJCthTPG
+1537273047939	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1537273047941	geckodriver::marionette	INFO	Connecting to Marionette on localhost:44245
+1537273050669	Marionette	INFO	Listening on port 2828
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/nsUrlClassifierListManager.js, line 321: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/nsUrlClassifierListManager.js, line 321: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1537273064826	Marionette	INFO	Stopped listening on port 2828
+1537273196216	geckodriver	INFO	Listening on 127.0.0.1:59933
+1537273197217	mozprofile::profile	INFO	Using profile path /tmp/rust_mozprofile.xIzebfjfvDuQ
+1537273197218	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox
+1537273197219	geckodriver::marionette	INFO	Connecting to Marionette on localhost:46593
+1537273200007	Marionette	INFO	Listening on port 2828
+1537273474167	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1537273474167	addons.xpi	ERROR	Failed to download system add-on telemetry-coverage-bug1487578@mozilla.org: Error: Failed downloading via XHR, status: 0, reason: error (resource://gre/modules/addons/ProductAddonChecker.jsm:314:16) JS Stack trace: fail@ProductAddonChecker.jsm:314:16
+1537273474168	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1537273474168	addons.xpi	ERROR	Failed to download system add-on fxmonitor@mozilla.org: Error: Failed downloading via XHR, status: 0, reason: error (resource://gre/modules/addons/ProductAddonChecker.jsm:314:16) JS Stack trace: fail@ProductAddonChecker.jsm:314:16
+1537273474169	addons.manager	WARN	Failed to update system addons: Error: Rejecting updated system add-on set that either could not be downloaded or contained unusable add-ons. (resource://gre/modules/addons/XPIInstall.jsm:3645:13) JS Stack trace: updateSystemAddons@XPIInstall.jsm:3645:13
+[Parent 11219, Gecko_IOThread] WARNING: pipe error (69): Connection reset by peer: file /build/firefox-8oo9jx/firefox-62.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/nsUrlClassifierListManager.js, line 321: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: jar:file:///usr/lib/firefox/omni.ja!/components/nsUrlClassifierListManager.js, line 321: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1537274195413	Marionette	INFO	Stopped listening on port 2828

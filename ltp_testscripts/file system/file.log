@@ -1,0 +1,7 @@
+inode     PASS
+acl     PASS
+acl     PASS
+inode     FAIL
+inode     FAIL
+inode     FAIL
+inode     FAIL

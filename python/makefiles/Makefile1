@@ -1,0 +1,17 @@
+main:static/fact.o static/fib.o static/prime.o staticmain.o static/libstat.a
+	gcc  -o main static/fact.o static/fib.o static/prime.o staticmain.o -Istatic/ -Lstatic/ -lstat
+staticmain.o:staticmain.c
+	gcc -c staticmain.c -Istatic/
+static/fact.o:static/fact.c
+	gcc -c static/fact.c -o static/fact.o
+static/fib.o:static/fib.c
+	gcc -c static/fib.c -o static/fib.o
+static/prime.o:static/prime.c
+	gcc -c static/prime.c -o static/prime.o
+static/libstat.a:static/fact.o static/fib.o static/prime.o
+	ar rcs static/libstat.a static/fact.o static/fib.o static/prime.o
+
+clean:
+	rm static/*.o
+	rm main
+

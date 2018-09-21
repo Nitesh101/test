@@ -1,0 +1,53 @@
+
+Solution-2  Extract consecutive two characters those available at start of word boundary (using “\b“)
+Code
+
+result=re.findall(r'\b\w.','AV is largest Analytics community of India')
+print result
+
+Output:
+['AV', 'is', 'la', 'An', 'co', 'of', 'In']
+
+Problem 3: Return the domain type of given email-ids
+
+To explain it in simple manner, I will again go with a stepwise approach:
+
+Solution-1  Extract all characters after “@”
+
+Code
+
+result=re.findall(r'@\w+','abc.test@gmail.com, xyz@test.in, test.first@analyticsvidhya.com, first.test@rest.biz') 
+print result 
+Output: ['@gmail', '@test', '@analyticsvidhya', '@rest']
+
+Above, you can see that “.com”, “.in” part is not extracted. To add it, we will go with below code.
+
+result=re.findall(r'@\w+.\w+','abc.test@gmail.com, xyz@test.in, test.first@analyticsvidhya.com, first.test@rest.biz')
+print result
+Output:
+['@gmail.com', '@test.in', '@analyticsvidhya.com', '@rest.biz']
+
+Solution – 2 Extract only domain name using “( )”
+
+Code
+
+result=re.findall(r'@\w+.(\w+)','abc.test@gmail.com, xyz@test.in, test.first@analyticsvidhya.com, first.test@rest.biz')
+print result
+
+Output:
+['com', 'in', 'com', 'biz']
+
+Problem 4: Return date from given string
+
+Here we will use “\d” to extract digit.
+
+Solution:
+
+Code
+
+result=re.findall(r'\d{2}-\d{2}-\d{4}','Amit 34-3456 12-05-2007, XYZ 56-4532 11-11-2011, ABC 67-8945 12-01-2009')
+print result
+Output:
+['12-05-2007', '11-11-2011', '12-01-2009']
+
+

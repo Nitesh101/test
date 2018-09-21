@@ -1,0 +1,68 @@
+1.write a program to explain the functionality of "issubclass()" method?
+Ans:
+	issubclass asks whether on class is a subclass of another class
+	class value(object):
+		pass
+	class input(value):
+		pass 
+	print issubclass(input,value)
+===========================================================
+2.write a program to explain inheritance?
+Ans:
+class Parent:
+	def First(self):
+		print "this is first clas"
+class Child(Parent):
+	def Second(self):
+		print "This is second class"
+d = Child()
+d.First()
+d.Second()
+  
+=======================================================================
+3.In how many ways we can access parent class members?explain with example?
+Ans:
+class Manager:
+	def salary(self):
+		print "This is prints salary"
+class Employee(Manager):
+	def increment(self):
+		print "This is prints increments"
+d = EMployee()
+d.salary()
+d.increment()
+
+============================================================================
+4.what is "Object" in below code?
+	ex :class(Object):
+		pass
+Ans:
+  object to create values which are perfectly unique.
+==============================================================================================
+5.what is multiple inheritance?Does python support it?if yes, explain the procudure with example?
+class First(object):
+	def __init__(self):
+	  super(First,self).__init__()
+	  print("first")
+class Second(object):
+	def __init__(self):
+	 super(Second,self).__init__()
+         print("second")
+class Third(Second,First):
+	def __init__(self):
+	  super(Third,self).__init__()
+Third();
+================================================================	
+6.write a program to print parent class name from child instance?
+Ans:
+
+class A(object):
+    def __init__(self):
+        print "A created"
+
+class B(A):
+    def __init__(self):
+        super(B, self).__init__() 
+
+b = B()
+

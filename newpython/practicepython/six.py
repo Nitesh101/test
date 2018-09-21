@@ -1,0 +1,6 @@
+file = open("/home/madisnit/Desktop/example.txt","w")
+file.write("dahbja ajbdajd a \n")
+file.write("dahbja ajbdajd a \n")
+file.write("dahbja ajbdajd a \n")
+file.write("dahbja ajbdajd a \n")
+file.close()
